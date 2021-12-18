@@ -1,0 +1,49 @@
+name: Get latest personal data
+
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    - cron:  '41 1,7,13 * * *'
+    - cron:  '41 19 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.9
+    - uses: actions/cache@v2
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Get latest data
+      run: |
+        curl https://systemapi.prod.ashish.me/movies | jq . > movies.json
+        curl https://systemapi.prod.ashish.me/shows | jq . > shows.json
+        curl https://systemapi.prod.ashish.me/books | jq . > books.json
+        curl https://systemapi.prod.ashish.me/todos | jq . > todos.json
+    - name: Create db
+      run: |
+        sqlite-utils insert ashish.db movies movies.json --pk=id
+        sqlite-utils insert ashish.db shows shows.json --pk=id
+        sqlite-utils insert ashish.db books books.json --pk=id
+        sqlite-utils insert ashish.db todos todos.json --pk=id
+    - name: Commit and push if s changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push

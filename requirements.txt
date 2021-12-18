@@ -1,0 +1,12 @@
+datasette>=0.57
+datasette-haversine
+datasette-template-sql>=1.0.2
+datasette-pretty-json
+datasette-json-html
+datasette-render-markdown
+datasette-atom
+requests
+sqlite-utils
+tqdm
+yaml-to-sqlite
+GitPython
