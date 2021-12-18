@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "description": "This story, dazzling in its powerful simplicity and inspiring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian",
+    "notes": "Loved it",
+    "year": 1989,
+    "genre": "Fiction",
+    "completedDate": "2021-11-10T00:00:00.000Z",
+    "loved": true,
+    "createdAt": "2021-12-10T02:30:55.368Z",
+    "updatedAt": "2021-12-10T05:22:13.941Z"
+  }
+]
