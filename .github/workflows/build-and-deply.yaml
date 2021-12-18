@@ -59,4 +59,5 @@ jobs:
           --about_url "https://github.com/ashishdotme/data.ashish.me" \
           --install datasette-graphql \
           --install datasette-block-robots \
-          --install datasette-pretty-json
+          --install datasette-pretty-json \
+          --template-dir "templates"
