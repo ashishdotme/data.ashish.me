@@ -1,4 +1,5 @@
 datasette>=0.57
+datasette-publish-vercel
 datasette-haversine
 datasette-template-sql>=1.0.2
 datasette-pretty-json
