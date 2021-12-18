@@ -54,7 +54,6 @@ jobs:
         datasette publish vercel ashish.db \
           --token $VERCEL_TOKEN \
           --project ashish-db \
-          --scope datasette \
           --title "data.ashish.me" \
           --about "personal database" \
           --about_url "https://github.com/ashishdotme/data.ashish.me" \
