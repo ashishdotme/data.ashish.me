@@ -33,12 +33,6 @@ jobs:
         curl https://systemapi.prod.ashish.me/shows | jq . > shows.json
         curl https://systemapi.prod.ashish.me/books | jq . > books.json
         curl https://systemapi.prod.ashish.me/todos | jq . > todos.json
-    - name: Create db
-      run: |
-        sqlite-utils insert ashish.db movies movies.json --pk=id
-        sqlite-utils insert ashish.db shows shows.json --pk=id
-        sqlite-utils insert ashish.db books books.json --pk=id
-        sqlite-utils insert ashish.db todos todos.json --pk=id
     - name: Commit and push if s changed
       run: |-
         git config user.name "Automated"
@@ -47,6 +41,12 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
+    - name: Create db
+      run: |
+        sqlite-utils insert ashish.db movies movies.json --pk=id
+        sqlite-utils insert ashish.db shows shows.json --pk=id
+        sqlite-utils insert ashish.db books books.json --pk=id
+        sqlite-utils insert ashish.db todos todos.json --pk=id
     - name: Deploy to Vercel
       env:
         VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
