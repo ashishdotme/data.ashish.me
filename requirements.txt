@@ -10,3 +10,5 @@ sqlite-utils
 tqdm
 yaml-to-sqlite
 GitPython
+datasette-graphql
+datasette-block-robots
