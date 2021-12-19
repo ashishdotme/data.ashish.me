@@ -80,7 +80,7 @@ jobs:
       shell: bash
       env:
         AUTH_JSON: ${{ secrets.POCKET_TOKEN }}
-      run: 'echo " $AUTH_JSON" > auth.json'
+      run: 'echo " POCKET_TOKEN" > auth.json'
     - name: Run pocket-to-sqlite
       env:
         AUTH_JSON: ${{ secrets.POCKET_TOKEN }}
