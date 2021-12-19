@@ -79,11 +79,11 @@ jobs:
     - name: Create auth.json with auth info
       shell: bash
       env:
-        AUTH_JSON: ${{ secrets.POCKET_TOKEN }}
+        POCKET_TOKEN: ${{ secrets.POCKET_TOKEN }}
       run: 'echo " POCKET_TOKEN" > auth.json'
     - name: Run pocket-to-sqlite
       env:
-        AUTH_JSON: ${{ secrets.POCKET_TOKEN }}
+        POCKET_TOKEN: ${{ secrets.POCKET_TOKEN }}
       run: |
         pocket-to-sqlite fetch bookmarks.db
     - name: Deploy to Vercel
