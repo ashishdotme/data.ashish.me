@@ -75,6 +75,7 @@ jobs:
         sqlite-utils drop-table health.db rWalkingStepLength
         sqlite-utils drop-table health.db workout_points
         sqlite-utils drop-table health.db workouts
+        sqlite-utils vacuum health.db
 
     - name: Deploy to Vercel
       env:
