@@ -1,4 +1,6 @@
 venv
 .idea
 ashish.db
+health.db
 export.zip
+*.zip*

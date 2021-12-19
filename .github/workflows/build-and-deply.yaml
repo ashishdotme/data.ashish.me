@@ -49,7 +49,7 @@ jobs:
         sqlite-utils insert ashish.db books books.json --pk=id
         sqlite-utils insert ashish.db todos todos.json --pk=id
         healthkit-to-sqlite export.zip health.db
-        sqlite-utils drop-table health.db rActivityEnergyBurned
+        sqlite-utils drop-table health.db rActiveEnergyBurned
         sqlite-utils drop-table health.db rAppleExcerciseTime
         sqlite-utils drop-table health.db rAppleStandHour
         sqlite-utils drop-table health.db rAppleStandTime
