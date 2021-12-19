@@ -14,3 +14,4 @@ GitPython
 datasette-graphql
 datasette-block-robots
 healthkit-to-sqlite
+pocket-to-sqlite
