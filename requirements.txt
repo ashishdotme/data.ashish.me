@@ -13,3 +13,4 @@ yaml-to-sqlite
 GitPython
 datasette-graphql
 datasette-block-robots
+healthkit-to-sqlite

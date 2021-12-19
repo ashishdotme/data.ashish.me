@@ -33,6 +33,7 @@ jobs:
         curl https://systemapi.prod.ashish.me/shows | jq . > shows.json
         curl https://systemapi.prod.ashish.me/books | jq . > books.json
         curl https://systemapi.prod.ashish.me/todos | jq . > todos.json
+        wget https://ashishdotme-downloads.s3.eu-west-1.amazonaws.com/export.zip
     - name: Commit and push if s changed
       run: |-
         git config user.name "Automated"
@@ -47,11 +48,12 @@ jobs:
         sqlite-utils insert ashish.db shows shows.json --pk=id
         sqlite-utils insert ashish.db books books.json --pk=id
         sqlite-utils insert ashish.db todos todos.json --pk=id
+        healthkit-to-sqlite export.zip health.db
     - name: Deploy to Vercel
       env:
         VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
       run: |-
-        datasette publish vercel ashish.db \
+        datasette publish vercel ashish.db health.db \
           --token $VERCEL_TOKEN \
           --project ashish-db \
           --title "data.ashish.me" \
