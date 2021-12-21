@@ -1,5 +1,16 @@
 [
   {
+    "id": 430,
+    "content": "Buy coffee",
+    "projectId": "2239311712",
+    "todoId": "5430842416",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2021-12-21T02:37:12.255Z",
+    "createdAt": "2021-12-21T02:37:13.038Z",
+    "updatedAt": "2021-12-21T02:37:13.038Z"
+  },
+  {
     "id": 429,
     "content": "Port ireland sim to 48 network",
     "projectId": "2239311712",
@@ -70,8 +81,8 @@
     "content": "Buy cake",
     "projectId": "2239311712",
     "todoId": "5420589007",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2021-12-21T02:37:01.559Z",
     "dueDate": "2021-12-16T20:07:15.993Z",
     "createdAt": "2021-12-16T20:07:16.759Z",
     "updatedAt": "2021-12-16T20:07:16.759Z"
