@@ -4,8 +4,8 @@
     "content": "Buy coffee",
     "projectId": "2239311712",
     "todoId": "5430842416",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2021-12-26T01:06:34.510Z",
     "dueDate": "2021-12-21T02:37:12.255Z",
     "createdAt": "2021-12-21T02:37:13.038Z",
     "updatedAt": "2021-12-21T02:37:13.038Z"
