@@ -4,8 +4,8 @@
     "content": "Pay credit card bills",
     "projectId": "2239311712",
     "todoId": "5451908784",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-04T12:10:43.049Z",
     "dueDate": "2021-12-30T10:15:31.659Z",
     "createdAt": "2021-12-30T10:15:32.500Z",
     "updatedAt": "2021-12-30T10:15:32.500Z"
