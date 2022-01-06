@@ -1,11 +1,22 @@
 [
   {
+    "id": 443,
+    "content": "Follow up with ikea for refund",
+    "projectId": "2239311712",
+    "todoId": "5471144843",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2022-01-06T10:43:01.739Z",
+    "createdAt": "2022-01-06T10:43:02.547Z",
+    "updatedAt": "2022-01-06T10:43:02.547Z"
+  },
+  {
     "id": 442,
     "content": "Buy chicken nuggets, orange juice",
     "projectId": "2239311712",
     "todoId": "5467308228",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-06T08:51:10.702Z",
     "dueDate": "2022-01-05T07:20:41.742Z",
     "createdAt": "2022-01-05T07:20:42.485Z",
     "updatedAt": "2022-01-05T07:20:42.485Z"
