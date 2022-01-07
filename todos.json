@@ -103,8 +103,8 @@
     "content": "Blockchain report  [deadline 6 Jan]",
     "projectId": "2239311712",
     "todoId": "5467018086",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-06T22:31:49.170Z",
     "dueDate": "2022-01-05T03:58:42.786Z",
     "createdAt": "2022-01-05T03:58:43.582Z",
     "updatedAt": "2022-01-05T03:58:43.582Z"
