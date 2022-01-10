@@ -26,8 +26,8 @@
     "content": "Complete functional and non functional requirements for CPP report",
     "projectId": "2239311712",
     "todoId": "5467270241",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-10T16:47:27.339Z",
     "dueDate": "2022-01-05T06:59:17.343Z",
     "createdAt": "2022-01-05T06:59:18.132Z",
     "updatedAt": "2022-01-05T06:59:18.132Z"
@@ -37,8 +37,8 @@
     "content": "Complete proposed cloud based solution for CPP report",
     "projectId": "2239311712",
     "todoId": "5467243899",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-10T16:47:33.252Z",
     "dueDate": "2022-01-05T06:43:25.460Z",
     "createdAt": "2022-01-05T06:43:26.227Z",
     "updatedAt": "2022-01-05T06:44:58.493Z"
@@ -48,8 +48,8 @@
     "content": "Complete architectural design for CPP report",
     "projectId": "2239311712",
     "todoId": "5467243142",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-10T16:47:35.242Z",
     "dueDate": "2022-01-05T06:42:52.575Z",
     "createdAt": "2022-01-05T06:42:53.348Z",
     "updatedAt": "2022-01-05T06:45:11.595Z"
@@ -92,8 +92,8 @@
     "content": "CPP report  [deadline 10 Jan]",
     "projectId": "2239311712",
     "todoId": "5467018365",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-10T16:47:39.940Z",
     "dueDate": "2022-01-05T03:58:55.006Z",
     "createdAt": "2022-01-05T03:58:55.810Z",
     "updatedAt": "2022-01-05T06:44:41.805Z"
