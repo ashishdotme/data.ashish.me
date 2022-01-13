@@ -81,8 +81,8 @@
     "content": "CA report [deadline 12 Jan]",
     "projectId": "2239311712",
     "todoId": "5467019299",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-12T20:08:51.836Z",
     "dueDate": "2022-01-05T03:59:36.440Z",
     "createdAt": "2022-01-05T03:59:37.137Z",
     "updatedAt": "2022-01-05T03:59:37.137Z"
