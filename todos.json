@@ -1,5 +1,16 @@
 [
   {
+    "id": 446,
+    "content": "Switch ls with exa in dotfiles",
+    "projectId": "2239311712",
+    "todoId": "5502221845",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2022-01-15T07:51:41.346Z",
+    "createdAt": "2022-01-15T07:51:42.342Z",
+    "updatedAt": "2022-01-15T07:51:42.342Z"
+  },
+  {
     "id": 445,
     "content": "Selfhost freshrss",
     "projectId": "2239311712",
