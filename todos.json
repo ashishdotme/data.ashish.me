@@ -4,8 +4,8 @@
     "content": "Complete Conclusion for CDO report",
     "projectId": "2239311712",
     "todoId": "5502921055",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-17T04:13:53.818Z",
     "dueDate": "2022-01-15T14:30:44.511Z",
     "createdAt": "2022-01-15T14:30:45.618Z",
     "updatedAt": "2022-01-15T14:30:45.618Z"
@@ -15,8 +15,8 @@
     "content": "Complete CI/CD for CDO report",
     "projectId": "2239311712",
     "todoId": "5502920665",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-17T04:13:59.127Z",
     "dueDate": "2022-01-15T14:30:31.095Z",
     "createdAt": "2022-01-15T14:30:32.051Z",
     "updatedAt": "2022-01-15T14:30:32.051Z"
@@ -147,8 +147,8 @@
     "content": "CDO report [deadline 15 Jan]",
     "projectId": "2239311712",
     "todoId": "5467019674",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-17T04:14:09.717Z",
     "dueDate": "2022-01-05T03:59:55.039Z",
     "createdAt": "2022-01-05T03:59:55.817Z",
     "updatedAt": "2022-01-05T03:59:55.817Z"
