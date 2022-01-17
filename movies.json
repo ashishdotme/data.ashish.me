@@ -1,5 +1,33 @@
 [
   {
+    "id": 111,
+    "title": "White Heat",
+    "description": "A psychopathic criminal with a mother complex makes a daring break from prison and leads his old gang in a chemical plant payroll heist.",
+    "language": "English",
+    "year": 1949,
+    "genre": "Action, Crime, Drama",
+    "viewingDate": "2022-01-17T19:00:01.400Z",
+    "loved": false,
+    "imdbRating": "8.1",
+    "imdbId": "tt0042041",
+    "createdAt": "2022-01-17T19:00:02.540Z",
+    "updatedAt": "2022-01-17T19:00:02.540Z"
+  },
+  {
+    "id": 104,
+    "title": "Her",
+    "description": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "language": "English",
+    "year": 2013,
+    "genre": "Drama, Romance, Sci-Fi",
+    "viewingDate": "2022-01-10T00:00:00.000Z",
+    "loved": false,
+    "imdbRating": "8.0",
+    "imdbId": "tt1798709",
+    "createdAt": "2022-01-17T18:20:51.514Z",
+    "updatedAt": "2022-01-17T18:20:51.514Z"
+  },
+  {
     "id": 100,
     "title": "Titanic",
     "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
@@ -12,6 +40,20 @@
     "imdbId": "tt0120338",
     "createdAt": "2021-12-15T22:46:27.512Z",
     "updatedAt": "2021-12-15T22:46:27.512Z"
+  },
+  {
+    "id": 107,
+    "title": "Scarface",
+    "description": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+    "language": "English",
+    "year": 1983,
+    "genre": "Crime, Drama",
+    "viewingDate": "2021-10-12T23:00:00.000Z",
+    "loved": false,
+    "imdbRating": "8.3",
+    "imdbId": "tt0086250",
+    "createdAt": "2022-01-17T18:54:34.318Z",
+    "updatedAt": "2022-01-17T18:54:34.318Z"
   },
   {
     "id": 16,
@@ -1188,5 +1230,19 @@
     "imdbId": "tt0330373",
     "createdAt": "2021-12-12T05:45:19.393Z",
     "updatedAt": "2021-12-12T05:45:19.393Z"
+  },
+  {
+    "id": 112,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "description": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+    "language": "English",
+    "year": 2001,
+    "genre": "Adventure, Family, Fantasy",
+    "viewingDate": "2005-09-23T06:23:48.204Z",
+    "loved": false,
+    "imdbRating": "7.6",
+    "imdbId": "tt0241527",
+    "createdAt": "2022-01-17T19:04:04.817Z",
+    "updatedAt": "2022-01-17T19:04:04.817Z"
   }
 ]
