@@ -1,5 +1,23 @@
 [
   {
+    "id": 19,
+    "title": "Friends Season 1",
+    "language": "English",
+    "showName": "Friends",
+    "description": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+    "seasonNumber": 1,
+    "year": 1994,
+    "genre": "Comedy, Romance",
+    "startedDate": "2022-01-18T07:31:28.412Z",
+    "completedDate": null,
+    "status": "Started",
+    "loved": true,
+    "imdbRating": "8.8",
+    "imdbId": "tt0108778",
+    "createdAt": "2022-01-18T08:02:16.995Z",
+    "updatedAt": "2022-01-18T08:02:16.995Z"
+  },
+  {
     "id": 3,
     "title": "Bad Education Season 3",
     "language": "English",
