@@ -1,5 +1,19 @@
 [
   {
+    "id": 115,
+    "title": "Contact",
+    "description": "Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.",
+    "language": "English",
+    "year": 1997,
+    "genre": "Drama, Mystery, Sci-Fi",
+    "viewingDate": "2022-01-19T00:00:00.000Z",
+    "loved": true,
+    "imdbRating": "7.5",
+    "imdbId": "tt0118884",
+    "createdAt": "2022-01-20T01:13:34.303Z",
+    "updatedAt": "2022-01-20T01:13:34.303Z"
+  },
+  {
     "id": 114,
     "title": "In Bruges",
     "description": "Guilt-stricken after a job gone wrong, hitman Ray and his partner await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be.",

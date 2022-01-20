@@ -48,8 +48,8 @@
     "content": "Add alias for opening finder",
     "projectId": "2239311712",
     "todoId": "5502912480",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-19T23:36:03.455Z",
     "dueDate": "2022-01-15T14:27:01.899Z",
     "createdAt": "2022-01-15T14:27:02.878Z",
     "updatedAt": "2022-01-15T14:27:02.878Z"
@@ -59,8 +59,8 @@
     "content": "Switch ls with exa in dotfiles",
     "projectId": "2239311712",
     "todoId": "5502221845",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-19T23:36:07.565Z",
     "dueDate": "2022-01-15T07:51:41.346Z",
     "createdAt": "2022-01-15T07:51:42.342Z",
     "updatedAt": "2022-01-15T07:51:42.342Z"
