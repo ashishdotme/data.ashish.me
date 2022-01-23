@@ -15,8 +15,8 @@
     "content": "Add dropdown in main navigation",
     "projectId": "2239311712",
     "todoId": "5521006718",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-23T13:05:56.649Z",
     "dueDate": "2022-01-21T04:34:25.884Z",
     "createdAt": "2022-01-21T04:34:26.738Z",
     "updatedAt": "2022-01-21T04:34:26.738Z"
