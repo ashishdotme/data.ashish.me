@@ -1,5 +1,33 @@
 [
   {
+    "id": 117,
+    "title": "Don't Breathe 2",
+    "description": "The sequel is set in the years following the initial deadly home invasion, where Norman Nordstrom (Stephen Lang) lives in quiet solace until his past sins catch up to him.",
+    "language": "English",
+    "year": 2021,
+    "genre": "Action, Drama, Horror",
+    "viewingDate": "2022-01-24T00:51:05.628Z",
+    "loved": true,
+    "imdbRating": "6.1",
+    "imdbId": "tt6246322",
+    "createdAt": "2022-01-24T00:51:06.215Z",
+    "updatedAt": "2022-01-24T00:51:06.215Z"
+  },
+  {
+    "id": 116,
+    "title": "Don't Breathe",
+    "description": "Hoping to walk away with a massive fortune, a trio of thieves break into the house of a blind man who isn't as helpless as he seems.",
+    "language": "English",
+    "year": 2016,
+    "genre": "Crime, Horror, Thriller",
+    "viewingDate": "2022-01-24T00:50:30.221Z",
+    "loved": true,
+    "imdbRating": "7.1",
+    "imdbId": "tt4160708",
+    "createdAt": "2022-01-24T00:50:32.458Z",
+    "updatedAt": "2022-01-24T00:50:32.458Z"
+  },
+  {
     "id": 115,
     "title": "Contact",
     "description": "Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.",
