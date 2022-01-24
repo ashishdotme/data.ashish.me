@@ -1,5 +1,27 @@
 [
   {
+    "id": 460,
+    "content": "Setup password manager",
+    "projectId": "2239311712",
+    "todoId": "5528576077",
+    "completed": true,
+    "completedDate": "2022-01-24T04:30:44.625Z",
+    "dueDate": "2022-01-24T03:47:45.131Z",
+    "createdAt": "2022-01-24T03:47:46.167Z",
+    "updatedAt": "2022-01-24T03:47:46.167Z"
+  },
+  {
+    "id": 459,
+    "content": "Clean up dns settings",
+    "projectId": "2239311712",
+    "todoId": "5528507402",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2022-01-24T02:59:53.834Z",
+    "createdAt": "2022-01-24T02:59:54.872Z",
+    "updatedAt": "2022-01-24T02:59:54.872Z"
+  },
+  {
     "id": 458,
     "content": "Update about me page",
     "projectId": "2239311712",
@@ -48,8 +70,8 @@
     "content": "Shut down old API",
     "projectId": "2239311712",
     "todoId": "5517489283",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-24T03:00:03.450Z",
     "dueDate": "2022-01-20T04:30:17.709Z",
     "createdAt": "2022-01-20T04:30:18.665Z",
     "updatedAt": "2022-01-20T04:30:18.665Z"
@@ -59,8 +81,8 @@
     "content": "Update books and others endpoint",
     "projectId": "2239311712",
     "todoId": "5517487707",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-24T03:00:04.642Z",
     "dueDate": "2022-01-20T04:29:15.044Z",
     "createdAt": "2022-01-20T04:29:16.048Z",
     "updatedAt": "2022-01-20T04:29:16.048Z"
