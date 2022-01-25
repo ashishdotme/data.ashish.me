@@ -169,8 +169,8 @@
     "content": "Selfhost freshrss",
     "projectId": "2239311712",
     "todoId": "5501935438",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-25T15:12:17.554Z",
     "dueDate": "2022-01-15T02:35:17.399Z",
     "createdAt": "2022-01-15T02:35:18.214Z",
     "updatedAt": "2022-01-15T02:35:18.214Z"
