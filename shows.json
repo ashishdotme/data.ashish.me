@@ -18,6 +18,24 @@
     "updatedAt": "2022-01-18T08:02:16.995Z"
   },
   {
+    "id": 21,
+    "title": "Friends Season 3",
+    "language": "English",
+    "showName": "Friends",
+    "description": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+    "seasonNumber": 3,
+    "year": 1994,
+    "genre": "Comedy, Romance",
+    "startedDate": "2012-01-30T06:20:31.269Z",
+    "completedDate": null,
+    "status": "Started",
+    "loved": true,
+    "imdbRating": "8.8",
+    "imdbId": "tt0108778",
+    "createdAt": "2022-01-29T01:09:20.619Z",
+    "updatedAt": "2022-01-29T01:09:20.619Z"
+  },
+  {
     "id": 20,
     "title": "Friends Season 2",
     "language": "English",
