@@ -246,8 +246,8 @@
     "content": "Buy colgate",
     "projectId": "2239311712",
     "todoId": "5501386762",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-01-31T02:13:02.945Z",
     "dueDate": "2022-01-14T20:29:08.199Z",
     "createdAt": "2022-01-14T20:29:09.220Z",
     "updatedAt": "2022-01-14T20:29:09.220Z"
