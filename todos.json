@@ -26,8 +26,8 @@
     "content": "Renew google one subscription",
     "projectId": "2239311712",
     "todoId": "5547359656",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-02-01T15:10:19.212Z",
     "dueDate": "2022-01-30T02:53:40.578Z",
     "createdAt": "2022-01-30T02:53:41.444Z",
     "updatedAt": "2022-01-30T02:53:41.444Z"
