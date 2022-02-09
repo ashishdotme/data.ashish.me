@@ -4,8 +4,8 @@
     "content": "Print resumes",
     "projectId": "2239311712",
     "todoId": "5551376194",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-02-09T14:03:01.995Z",
     "dueDate": "2022-01-31T14:21:23.793Z",
     "createdAt": "2022-01-31T14:21:24.922Z",
     "updatedAt": "2022-01-31T14:21:24.922Z"
