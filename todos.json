@@ -1,5 +1,16 @@
 [
   {
+    "id": 468,
+    "content": "Complete cloud machine learning assignment",
+    "projectId": "2239311712",
+    "todoId": "5688453152",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2022-03-18T18:17:05.392Z",
+    "createdAt": "2022-03-18T18:17:06.614Z",
+    "updatedAt": "2022-03-18T18:17:06.614Z"
+  },
+  {
     "id": 467,
     "content": "Print resumes",
     "projectId": "2239311712",
@@ -48,8 +59,8 @@
     "content": "Scrap streaks data",
     "projectId": "2239311712",
     "todoId": "5545466568",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-03-18T18:16:38.812Z",
     "dueDate": "2022-01-29T05:03:07.262Z",
     "createdAt": "2022-01-29T05:03:08.422Z",
     "updatedAt": "2022-01-29T05:03:08.422Z"
@@ -59,8 +70,8 @@
     "content": "Work on research",
     "projectId": "2239311712",
     "todoId": "5538553625",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-03-18T18:16:36.720Z",
     "dueDate": "2022-01-26T20:48:53.537Z",
     "createdAt": "2022-01-26T20:48:54.497Z",
     "updatedAt": "2022-01-26T20:48:54.497Z"
@@ -70,8 +81,8 @@
     "content": "Update linkedin",
     "projectId": "2239311712",
     "todoId": "5538041451",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-03-18T18:16:35.296Z",
     "dueDate": "2022-01-26T17:41:50.305Z",
     "createdAt": "2022-01-26T17:41:51.460Z",
     "updatedAt": "2022-01-26T17:41:51.460Z"
@@ -92,8 +103,8 @@
     "content": "Clean up dns settings",
     "projectId": "2239311712",
     "todoId": "5528507402",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-03-18T18:16:31.341Z",
     "dueDate": "2022-01-24T02:59:53.834Z",
     "createdAt": "2022-01-24T02:59:54.872Z",
     "updatedAt": "2022-01-24T02:59:54.872Z"
