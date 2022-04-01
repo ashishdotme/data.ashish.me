@@ -1,11 +1,55 @@
 [
   {
+    "id": 472,
+    "content": "Pay bills",
+    "projectId": "2239311712",
+    "todoId": "5729139305",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2022-04-01T18:31:20.404Z",
+    "createdAt": "2022-04-01T18:31:21.554Z",
+    "updatedAt": "2022-04-01T18:31:21.554Z"
+  },
+  {
+    "id": 471,
+    "content": "Change address in Revolut",
+    "projectId": "2239311712",
+    "todoId": "5728762139",
+    "completed": true,
+    "completedDate": "2022-04-01T18:26:21.233Z",
+    "dueDate": "2022-04-01T15:53:23.978Z",
+    "createdAt": "2022-04-01T15:53:25.055Z",
+    "updatedAt": "2022-04-01T15:53:25.055Z"
+  },
+  {
+    "id": 470,
+    "content": "Get NOC letter for visa",
+    "projectId": "2239311712",
+    "todoId": "5728734728",
+    "completed": true,
+    "completedDate": "2022-04-01T15:49:13.708Z",
+    "dueDate": "2022-04-01T15:43:51.860Z",
+    "createdAt": "2022-04-01T15:43:53.068Z",
+    "updatedAt": "2022-04-01T15:43:53.068Z"
+  },
+  {
+    "id": 469,
+    "content": "Order a coffee mug",
+    "projectId": "2239311712",
+    "todoId": "5728714189",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2022-04-01T15:36:14.627Z",
+    "createdAt": "2022-04-01T15:36:15.956Z",
+    "updatedAt": "2022-04-01T15:36:15.956Z"
+  },
+  {
     "id": 468,
     "content": "Complete cloud machine learning assignment",
     "projectId": "2239311712",
     "todoId": "5688453152",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-04-01T15:35:55.244Z",
     "dueDate": "2022-03-18T18:17:05.392Z",
     "createdAt": "2022-03-18T18:17:06.614Z",
     "updatedAt": "2022-03-18T18:17:06.614Z"
