@@ -4,8 +4,8 @@
     "content": "Add names to table and figures in thesis",
     "projectId": "2239311712",
     "todoId": "5741706012",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-04-11T03:44:37.435Z",
     "dueDate": "2022-04-06T09:28:48.251Z",
     "createdAt": "2022-04-06T09:28:49.465Z",
     "updatedAt": "2022-04-06T09:28:49.465Z"
@@ -15,8 +15,8 @@
     "content": "Submit thesis proposal",
     "projectId": "2239311712",
     "todoId": "5733402973",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-04-11T03:44:41.414Z",
     "dueDate": "2022-04-03T20:15:29.503Z",
     "createdAt": "2022-04-03T20:15:30.671Z",
     "updatedAt": "2022-04-03T20:15:30.671Z"
@@ -70,8 +70,8 @@
     "content": "Order a coffee mug",
     "projectId": "2239311712",
     "todoId": "5728714189",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-04-11T03:44:49.252Z",
     "dueDate": "2022-04-01T15:36:14.627Z",
     "createdAt": "2022-04-01T15:36:15.956Z",
     "updatedAt": "2022-04-01T15:36:15.956Z"
