@@ -1,12 +1,36 @@
 [
   {
+    "id": 479,
+    "content": "Fix wrong previous week stat",
+    "category": "Chore",
+    "projectId": "2239311712",
+    "todoId": "5759950615",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2022-04-12T19:36:27.008Z",
+    "createdAt": "2022-04-12T19:36:27.909Z",
+    "updatedAt": "2022-04-12T19:37:39.840Z"
+  },
+  {
+    "id": 478,
+    "content": "Setup scp repo",
+    "category": "Programming",
+    "projectId": "2239311712",
+    "todoId": "5759949969",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2022-04-12T19:36:09.768Z",
+    "createdAt": "2022-04-12T19:36:12.368Z",
+    "updatedAt": "2022-04-12T19:37:57.632Z"
+  },
+  {
     "id": 477,
     "content": "Add ml api for finding task category",
     "category": "Programming",
     "projectId": "2239311712",
     "todoId": "5757033797",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-04-12T14:24:04.820Z",
     "dueDate": "2022-04-11T21:48:12.492Z",
     "createdAt": "2022-04-11T21:48:13.328Z",
     "updatedAt": "2022-04-11T21:49:09.234Z"
@@ -17,8 +41,8 @@
     "category": "Programming",
     "projectId": "2239311712",
     "todoId": "5757031774",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-04-12T14:24:08.758Z",
     "dueDate": "2022-04-11T21:47:06.722Z",
     "createdAt": "2022-04-11T21:47:08.194Z",
     "updatedAt": "2022-04-11T21:49:30.778Z"
