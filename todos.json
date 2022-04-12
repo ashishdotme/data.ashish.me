@@ -1,7 +1,32 @@
 [
   {
+    "id": 477,
+    "content": "Add ml api for finding task category",
+    "category": "Programming",
+    "projectId": "2239311712",
+    "todoId": "5757033797",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2022-04-11T21:48:12.492Z",
+    "createdAt": "2022-04-11T21:48:13.328Z",
+    "updatedAt": "2022-04-11T21:49:09.234Z"
+  },
+  {
+    "id": 476,
+    "content": "Deploy ml api",
+    "category": "Programming",
+    "projectId": "2239311712",
+    "todoId": "5757031774",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2022-04-11T21:47:06.722Z",
+    "createdAt": "2022-04-11T21:47:08.194Z",
+    "updatedAt": "2022-04-11T21:49:30.778Z"
+  },
+  {
     "id": 475,
     "content": "Add names to table and figures in thesis",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5741706012",
     "completed": true,
@@ -13,6 +38,7 @@
   {
     "id": 474,
     "content": "Submit thesis proposal",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5733402973",
     "completed": true,
@@ -24,6 +50,7 @@
   {
     "id": 473,
     "content": "Complete introduction and literature review",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5731109671",
     "completed": true,
@@ -35,6 +62,7 @@
   {
     "id": 472,
     "content": "Pay bills",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5729139305",
     "completed": true,
@@ -46,6 +74,7 @@
   {
     "id": 471,
     "content": "Change address in Revolut",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5728762139",
     "completed": true,
@@ -57,6 +86,7 @@
   {
     "id": 470,
     "content": "Get NOC letter for visa",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5728734728",
     "completed": true,
@@ -68,6 +98,7 @@
   {
     "id": 469,
     "content": "Order a coffee mug",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5728714189",
     "completed": true,
@@ -79,6 +110,7 @@
   {
     "id": 468,
     "content": "Complete cloud machine learning assignment",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5688453152",
     "completed": true,
@@ -90,6 +122,7 @@
   {
     "id": 467,
     "content": "Print resumes",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5551376194",
     "completed": true,
@@ -101,17 +134,19 @@
   {
     "id": 466,
     "content": "Add chores in grocy",
+    "category": "Chore",
     "projectId": "2239311712",
     "todoId": "5549413062",
     "completed": false,
     "completedDate": null,
     "dueDate": "2022-01-31T00:23:33.722Z",
     "createdAt": "2022-01-31T00:23:34.657Z",
-    "updatedAt": "2022-01-31T00:23:34.657Z"
+    "updatedAt": "2022-04-11T19:57:38.972Z"
   },
   {
     "id": 465,
     "content": "Renew google one subscription",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5547359656",
     "completed": true,
@@ -123,17 +158,19 @@
   {
     "id": 464,
     "content": "Update sync todoist script",
+    "category": "Programming",
     "projectId": "2239311712",
     "todoId": "5547359533",
     "completed": false,
     "completedDate": null,
     "dueDate": "2022-01-30T02:53:29.274Z",
     "createdAt": "2022-01-30T02:53:30.275Z",
-    "updatedAt": "2022-01-30T02:53:30.275Z"
+    "updatedAt": "2022-04-11T19:57:47.716Z"
   },
   {
     "id": 463,
     "content": "Scrap streaks data",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5545466568",
     "completed": true,
@@ -145,6 +182,7 @@
   {
     "id": 462,
     "content": "Work on research",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5538553625",
     "completed": true,
@@ -156,6 +194,7 @@
   {
     "id": 461,
     "content": "Update linkedin",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5538041451",
     "completed": true,
@@ -167,6 +206,7 @@
   {
     "id": 460,
     "content": "Setup password manager",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5528576077",
     "completed": true,
@@ -178,6 +218,7 @@
   {
     "id": 459,
     "content": "Clean up dns settings",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5528507402",
     "completed": true,
@@ -189,17 +230,19 @@
   {
     "id": 458,
     "content": "Update about me page",
+    "category": "Programming",
     "projectId": "2239311712",
     "todoId": "5521006911",
     "completed": false,
     "completedDate": null,
     "dueDate": "2022-01-21T04:34:37.410Z",
     "createdAt": "2022-01-21T04:34:38.189Z",
-    "updatedAt": "2022-01-21T04:34:38.189Z"
+    "updatedAt": "2022-04-11T19:57:54.940Z"
   },
   {
     "id": 457,
     "content": "Add dropdown in main navigation",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5521006718",
     "completed": true,
@@ -211,6 +254,7 @@
   {
     "id": 456,
     "content": "Remove github script code",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5520930297",
     "completed": true,
@@ -222,6 +266,7 @@
   {
     "id": 455,
     "content": "Fix link and font size in featured work",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5518695945",
     "completed": true,
@@ -233,6 +278,7 @@
   {
     "id": 454,
     "content": "Shut down old API",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5517489283",
     "completed": true,
@@ -244,6 +290,7 @@
   {
     "id": 453,
     "content": "Update books and others endpoint",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5517487707",
     "completed": true,
@@ -255,6 +302,7 @@
   {
     "id": 452,
     "content": "Move word, quote, shortner to new api",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5517485366",
     "completed": true,
@@ -266,6 +314,7 @@
   {
     "id": 451,
     "content": "Fix date picker in dashboard",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5512569196",
     "completed": true,
@@ -277,6 +326,7 @@
   {
     "id": 450,
     "content": "Complete Conclusion for CDO report",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5502921055",
     "completed": true,
@@ -288,6 +338,7 @@
   {
     "id": 449,
     "content": "Complete CI/CD for CDO report",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5502920665",
     "completed": true,
@@ -299,6 +350,7 @@
   {
     "id": 448,
     "content": "Complete abstract for CDO report",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5502920135",
     "completed": true,
@@ -310,6 +362,7 @@
   {
     "id": 447,
     "content": "Add alias for opening finder",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5502912480",
     "completed": true,
@@ -321,6 +374,7 @@
   {
     "id": 446,
     "content": "Switch ls with exa in dotfiles",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5502221845",
     "completed": true,
@@ -332,6 +386,7 @@
   {
     "id": 445,
     "content": "Selfhost freshrss",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5501935438",
     "completed": true,
@@ -343,6 +398,7 @@
   {
     "id": 444,
     "content": "Buy colgate",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5501386762",
     "completed": true,
@@ -354,17 +410,19 @@
   {
     "id": 443,
     "content": "Follow up with ikea for refund",
+    "category": "Chore",
     "projectId": "2239311712",
     "todoId": "5471144843",
     "completed": false,
     "completedDate": null,
     "dueDate": "2022-01-06T10:43:01.739Z",
     "createdAt": "2022-01-06T10:43:02.547Z",
-    "updatedAt": "2022-01-06T10:43:02.547Z"
+    "updatedAt": "2022-04-11T19:58:11.505Z"
   },
   {
     "id": 442,
     "content": "Buy chicken nuggets, orange juice",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5467308228",
     "completed": true,
@@ -376,6 +434,7 @@
   {
     "id": 441,
     "content": "Complete functional and non functional requirements for CPP report",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5467270241",
     "completed": true,
@@ -387,6 +446,7 @@
   {
     "id": 440,
     "content": "Complete proposed cloud based solution for CPP report",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5467243899",
     "completed": true,
@@ -398,6 +458,7 @@
   {
     "id": 439,
     "content": "Complete architectural design for CPP report",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5467243142",
     "completed": true,
@@ -409,6 +470,7 @@
   {
     "id": 438,
     "content": "Fix typo in dashboard app",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5467020127",
     "completed": true,
@@ -420,6 +482,7 @@
   {
     "id": 437,
     "content": "CDO report [deadline 15 Jan]",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5467019674",
     "completed": true,
@@ -431,6 +494,7 @@
   {
     "id": 436,
     "content": "CA report [deadline 12 Jan]",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5467019299",
     "completed": true,
@@ -442,6 +506,7 @@
   {
     "id": 435,
     "content": "CPP report  [deadline 10 Jan]",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5467018365",
     "completed": true,
@@ -453,6 +518,7 @@
   {
     "id": 434,
     "content": "Blockchain report  [deadline 6 Jan]",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5467018086",
     "completed": true,
@@ -464,6 +530,7 @@
   {
     "id": 433,
     "content": "Pay credit card bills",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5451908784",
     "completed": true,
@@ -475,17 +542,19 @@
   {
     "id": 432,
     "content": "Verify custom domain for github pages",
+    "category": "Programming",
     "projectId": "2239311712",
     "todoId": "5451589154",
     "completed": false,
     "completedDate": null,
     "dueDate": "2021-12-30T07:20:18.395Z",
     "createdAt": "2021-12-30T07:20:19.385Z",
-    "updatedAt": "2021-12-30T07:20:19.385Z"
+    "updatedAt": "2022-04-11T19:57:05.231Z"
   },
   {
     "id": 431,
     "content": "Create service account for system api",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5443017547",
     "completed": true,
@@ -497,6 +566,7 @@
   {
     "id": 430,
     "content": "Buy coffee",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5430842416",
     "completed": true,
@@ -508,6 +578,7 @@
   {
     "id": 428,
     "content": "Recharge indian mobile number",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5425603204",
     "completed": true,
@@ -519,6 +590,7 @@
   {
     "id": 427,
     "content": "Make coffee",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5421186907",
     "completed": true,
@@ -530,6 +602,7 @@
   {
     "id": 426,
     "content": "Buy from aldi",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5421179510",
     "completed": true,
@@ -541,6 +614,7 @@
   {
     "id": 425,
     "content": "Complete blockchain report",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5421171410",
     "completed": true,
@@ -552,6 +626,7 @@
   {
     "id": 424,
     "content": "Record video",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5421007307",
     "completed": true,
@@ -563,6 +638,7 @@
   {
     "id": 423,
     "content": "Buy cake",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5420589007",
     "completed": true,
@@ -574,6 +650,7 @@
   {
     "id": 422,
     "content": "Write project report for cloud platform programming",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5418424734",
     "completed": true,
@@ -585,6 +662,7 @@
   {
     "id": 421,
     "content": "Update main website",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5416300304",
     "completed": true,
@@ -596,6 +674,7 @@
   {
     "id": 420,
     "content": "Do laundry",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5416298967",
     "completed": true,
@@ -607,6 +686,7 @@
   {
     "id": 418,
     "content": "Change url in todos app",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5412559030",
     "completed": true,
@@ -618,6 +698,7 @@
   {
     "id": 412,
     "content": "Complete project specification for cloud devops",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5281312970",
     "completed": true,
@@ -629,6 +710,7 @@
   {
     "id": 411,
     "content": "Work on computer architecture project",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5281310875",
     "completed": true,
@@ -640,6 +722,7 @@
   {
     "id": 410,
     "content": "Upgrade macbook",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5279727765",
     "completed": true,
@@ -651,6 +734,7 @@
   {
     "id": 409,
     "content": "Buy hoodie",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5279722695",
     "completed": true,
@@ -662,6 +746,7 @@
   {
     "id": 408,
     "content": "Subcribe to google one",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5274321290",
     "completed": true,
@@ -673,6 +758,7 @@
   {
     "id": 407,
     "content": "Recharge vodafone",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5274306158",
     "completed": true,
@@ -684,6 +770,7 @@
   {
     "id": 406,
     "content": "Buy laptop screen guard and keyboard cover",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5214938844",
     "completed": true,
@@ -695,6 +782,7 @@
   {
     "id": 405,
     "content": "Buy lemon juice",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5208679175",
     "completed": true,
@@ -706,6 +794,7 @@
   {
     "id": 404,
     "content": "Milk and sausages",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5208670974",
     "completed": true,
@@ -717,6 +806,7 @@
   {
     "id": 403,
     "content": "Buy hand towel",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5197564274",
     "completed": true,
@@ -728,6 +818,7 @@
   {
     "id": 402,
     "content": "Buy gym bag, deodorant",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5197551954",
     "completed": true,
@@ -739,6 +830,7 @@
   {
     "id": 401,
     "content": "Research metamask",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5195229781",
     "completed": true,
@@ -750,6 +842,7 @@
   {
     "id": 400,
     "content": "Buy tur daal, flour ",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5194369476",
     "completed": true,
@@ -761,6 +854,7 @@
   {
     "id": 399,
     "content": "Buy butter, cauliflower, tomato, onion, chilly",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5194367600",
     "completed": true,
@@ -772,6 +866,7 @@
   {
     "id": 398,
     "content": "Buy milk chicken sausages",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5194364821",
     "completed": true,
@@ -783,6 +878,7 @@
   {
     "id": 397,
     "content": "Buy soap container ",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5194363568",
     "completed": true,
@@ -794,6 +890,7 @@
   {
     "id": 396,
     "content": "Buy clock battery",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5192681804",
     "completed": true,
@@ -805,6 +902,7 @@
   {
     "id": 395,
     "content": "Buy eggs",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5192681436",
     "completed": true,
@@ -816,6 +914,7 @@
   {
     "id": 394,
     "content": "Buy jacket",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5192197853",
     "completed": true,
@@ -827,6 +926,7 @@
   {
     "id": 393,
     "content": "Get bodylotion",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5191494527",
     "completed": true,
@@ -838,6 +938,7 @@
   {
     "id": 392,
     "content": "clean room and laptop",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5191494120",
     "completed": true,
@@ -849,6 +950,7 @@
   {
     "id": 391,
     "content": "Buy notebook and pen",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5191153162",
     "completed": true,
@@ -860,6 +962,7 @@
   {
     "id": 390,
     "content": "Buy bottle",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5191132435",
     "completed": true,
@@ -871,6 +974,7 @@
   {
     "id": 389,
     "content": "Buy pepper and peanut butter",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5191055137",
     "completed": true,
@@ -882,6 +986,7 @@
   {
     "id": 388,
     "content": "Buy trackpants and shoes",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5190209519",
     "completed": true,
@@ -893,6 +998,7 @@
   {
     "id": 387,
     "content": "Buy jacket",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5190208980",
     "completed": true,
@@ -904,6 +1010,7 @@
   {
     "id": 386,
     "content": "Buy shower gel",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5114675764",
     "completed": true,
@@ -915,6 +1022,7 @@
   {
     "id": 385,
     "content": "Get water can",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5113706135",
     "completed": true,
@@ -926,6 +1034,7 @@
   {
     "id": 384,
     "content": "Book doctor appointment",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5111243629",
     "completed": true,
@@ -937,6 +1046,7 @@
   {
     "id": 383,
     "content": "Get batteries for electric brush",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5111238938",
     "completed": true,
@@ -948,6 +1058,7 @@
   {
     "id": 382,
     "content": "Do laundry",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5111234577",
     "completed": true,
@@ -959,6 +1070,7 @@
   {
     "id": 381,
     "content": "Get self attested documents",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5111222253",
     "completed": true,
@@ -970,6 +1082,7 @@
   {
     "id": 380,
     "content": "Transfer money to ireland",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5111222758",
     "completed": true,
@@ -981,6 +1094,7 @@
   {
     "id": 379,
     "content": "Fill up starting at ireland form",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5104596396",
     "completed": true,
@@ -992,6 +1106,7 @@
   {
     "id": 378,
     "content": "Submit photo for the ICard",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5104595736",
     "completed": true,
@@ -1003,6 +1118,7 @@
   {
     "id": 377,
     "content": "Testing",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5101455311",
     "completed": true,
@@ -1014,6 +1130,7 @@
   {
     "id": 376,
     "content": "Buy 2 single bedsheet",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5057687547",
     "completed": true,
@@ -1025,6 +1142,7 @@
   {
     "id": 375,
     "content": "Leather shoes",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5057684127",
     "completed": true,
@@ -1036,6 +1154,7 @@
   {
     "id": 374,
     "content": "Get formal wear",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5057683969",
     "completed": true,
@@ -1047,6 +1166,7 @@
   {
     "id": 373,
     "content": "Visit Dentist",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5057683513",
     "completed": true,
@@ -1058,6 +1178,7 @@
   {
     "id": 372,
     "content": "Buy notebooks",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5057683415",
     "completed": true,
@@ -1069,6 +1190,7 @@
   {
     "id": 371,
     "content": "Get phone cover",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5049259822",
     "completed": true,
@@ -1080,6 +1202,7 @@
   {
     "id": 370,
     "content": "Prepare list of dishes to learn",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5043980413",
     "completed": true,
@@ -1091,6 +1214,7 @@
   {
     "id": 369,
     "content": "Complete mandatory course",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5043980240",
     "completed": true,
@@ -1102,6 +1226,7 @@
   {
     "id": 368,
     "content": "Put tempered glass on iPhone",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5043734407",
     "completed": true,
@@ -1113,6 +1238,7 @@
   {
     "id": 367,
     "content": "Buy luggage bag",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5043545772",
     "completed": true,
@@ -1124,6 +1250,7 @@
   {
     "id": 366,
     "content": "Fix chain of laptop bag",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5043546568",
     "completed": true,
@@ -1135,6 +1262,7 @@
   {
     "id": 365,
     "content": "Throw waste",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5040804188",
     "completed": true,
@@ -1146,6 +1274,7 @@
   {
     "id": 364,
     "content": "Fill up college forms",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5040808727",
     "completed": true,
@@ -1157,6 +1286,7 @@
   {
     "id": 363,
     "content": "Go to dermatologist",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5040805346",
     "completed": true,
@@ -1168,6 +1298,7 @@
   {
     "id": 362,
     "content": "Register for second dose",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5038455500",
     "completed": true,
@@ -1179,6 +1310,7 @@
   {
     "id": 361,
     "content": "Verify documents for courier",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5038080192",
     "completed": true,
@@ -1190,6 +1322,7 @@
   {
     "id": 360,
     "content": "Order eggs",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5038017177",
     "completed": true,
@@ -1201,6 +1334,7 @@
   {
     "id": 359,
     "content": "Order new glasses",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5023066097",
     "completed": true,
@@ -1212,6 +1346,7 @@
   {
     "id": 358,
     "content": "Write document on spike story",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5022266030",
     "completed": true,
@@ -1223,6 +1358,7 @@
   {
     "id": 357,
     "content": "Send kyc document to parents",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5021758398",
     "completed": true,
@@ -1234,6 +1370,7 @@
   {
     "id": 356,
     "content": "Order new electric toothbrush",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5021700040",
     "completed": true,
@@ -1245,6 +1382,7 @@
   {
     "id": 355,
     "content": "Setup dev env infra code",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5020284285",
     "completed": true,
@@ -1256,6 +1394,7 @@
   {
     "id": 354,
     "content": "Sell cooler",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5020092605",
     "completed": true,
@@ -1267,6 +1406,7 @@
   {
     "id": 353,
     "content": "Sell vaccum cleaner",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5020092681",
     "completed": true,
@@ -1278,6 +1418,7 @@
   {
     "id": 352,
     "content": "Get isp refund",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5020092047",
     "completed": true,
@@ -1289,6 +1430,7 @@
   {
     "id": 351,
     "content": "Get second dose of vaccination",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5020091821",
     "completed": true,
@@ -1300,6 +1442,7 @@
   {
     "id": 350,
     "content": "Get gym subscription",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5018258149",
     "completed": true,
@@ -1311,6 +1454,7 @@
   {
     "id": 349,
     "content": "Throw garbage",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "5016586992",
     "completed": true,
@@ -1322,6 +1466,7 @@
   {
     "id": 348,
     "content": "Add acceptance tests",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4942517573",
     "completed": true,
@@ -1333,6 +1478,7 @@
   {
     "id": 347,
     "content": "Education summary",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4937637837",
     "completed": true,
@@ -1344,6 +1490,7 @@
   {
     "id": 346,
     "content": "Get gas cylinder",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4911964272",
     "completed": true,
@@ -1355,6 +1502,7 @@
   {
     "id": 345,
     "content": "Buy vegetable oil and chaipatti",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4902032412",
     "completed": true,
@@ -1366,6 +1514,7 @@
   {
     "id": 344,
     "content": "Give clothes for laundry",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4892408989",
     "completed": true,
@@ -1377,6 +1526,7 @@
   {
     "id": 343,
     "content": "Sell macbook air",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4891138995",
     "completed": true,
@@ -1388,6 +1538,7 @@
   {
     "id": 342,
     "content": "Get gas cylinder",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4891039584",
     "completed": true,
@@ -1399,6 +1550,7 @@
   {
     "id": 341,
     "content": "Pay bills",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4891039081",
     "completed": true,
@@ -1410,6 +1562,7 @@
   {
     "id": 340,
     "content": "Pay rent",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4891038185",
     "completed": true,
@@ -1421,6 +1574,7 @@
   {
     "id": 339,
     "content": "Redeploy old arch",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4890277158",
     "completed": true,
@@ -1432,6 +1586,7 @@
   {
     "id": 338,
     "content": "Secops review",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4889802113",
     "completed": true,
@@ -1443,6 +1598,7 @@
   {
     "id": 337,
     "content": "Fix codesmells",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4889803117",
     "completed": true,
@@ -1454,6 +1610,7 @@
   {
     "id": 336,
     "content": "Update checklist",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4889784922",
     "completed": true,
@@ -1465,6 +1622,7 @@
   {
     "id": 335,
     "content": "Create postman collection",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4889784791",
     "completed": true,
@@ -1476,6 +1634,7 @@
   {
     "id": 334,
     "content": "Clean kitchen",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4889783817",
     "completed": true,
@@ -1487,6 +1646,7 @@
   {
     "id": 333,
     "content": "Get water can",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4889783588",
     "completed": true,
@@ -1498,6 +1658,7 @@
   {
     "id": 332,
     "content": "Update terraform script",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4836378181",
     "completed": true,
@@ -1509,6 +1670,7 @@
   {
     "id": 331,
     "content": "Create demo for wednesday",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4836376967",
     "completed": true,
@@ -1520,6 +1682,7 @@
   {
     "id": 330,
     "content": "Get water can, black ring for cooket",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4810749257",
     "completed": true,
@@ -1531,6 +1694,7 @@
   {
     "id": 329,
     "content": "Update connector doc",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4796845765",
     "completed": true,
@@ -1542,6 +1706,7 @@
   {
     "id": 328,
     "content": "Buy mango pickle",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4810675642",
     "completed": true,
@@ -1553,6 +1718,7 @@
   {
     "id": 327,
     "content": "Buy garbage bag",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4810674951",
     "completed": true,
@@ -1564,6 +1730,7 @@
   {
     "id": 326,
     "content": "Pay maid",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4794496138",
     "completed": true,
@@ -1575,6 +1742,7 @@
   {
     "id": 325,
     "content": "Pay rent",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4793346513",
     "completed": true,
@@ -1586,6 +1754,7 @@
   {
     "id": 324,
     "content": "Change client secret",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4792076288",
     "completed": true,
@@ -1597,6 +1766,7 @@
   {
     "id": 323,
     "content": "Buy ginger powder",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4788545688",
     "completed": true,
@@ -1608,6 +1778,7 @@
   {
     "id": 322,
     "content": "Work on sync todo script",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4788462895",
     "completed": true,
@@ -1619,6 +1790,7 @@
   {
     "id": 321,
     "content": "Pay bills",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4773785223",
     "completed": true,
@@ -1630,6 +1802,7 @@
   {
     "id": 320,
     "content": "Recharge vodaphone",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4773784131",
     "completed": true,
@@ -1641,6 +1814,7 @@
   {
     "id": 319,
     "content": "Buy tumeric, chilli powder, oil",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4755020187",
     "completed": true,
@@ -1652,6 +1826,7 @@
   {
     "id": 318,
     "content": "Stop some of the credit card subscriptions",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4742854839",
     "completed": true,
@@ -1663,6 +1838,7 @@
   {
     "id": 317,
     "content": "Arrange documents for visa",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4741687944",
     "completed": true,
@@ -1674,6 +1850,7 @@
   {
     "id": 316,
     "content": "Add authentication to GET api",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4741269996",
     "completed": true,
@@ -1685,6 +1862,7 @@
   {
     "id": 315,
     "content": "Get pcc",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4740866621",
     "completed": true,
@@ -1696,6 +1874,7 @@
   {
     "id": 314,
     "content": "Check refresh token is working",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4740849902",
     "completed": true,
@@ -1707,6 +1886,7 @@
   {
     "id": 313,
     "content": "Fix pentesting issues",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4740849619",
     "completed": true,
@@ -1718,6 +1898,7 @@
   {
     "id": 312,
     "content": "Scan front and back of passport, aadhar",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4740499409",
     "completed": true,
@@ -1729,6 +1910,7 @@
   {
     "id": 311,
     "content": "Organize documents",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4740498443",
     "completed": true,
@@ -1740,6 +1922,7 @@
   {
     "id": 310,
     "content": "Pay bills for march",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4700663450",
     "completed": true,
@@ -1751,6 +1934,7 @@
   {
     "id": 309,
     "content": "Buy items from Amazon wishlist",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4694728617",
     "completed": true,
@@ -1762,6 +1946,7 @@
   {
     "id": 308,
     "content": "Buy lock",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4694727849",
     "completed": true,
@@ -1773,6 +1958,7 @@
   {
     "id": 307,
     "content": "Write terraform script",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4670799860",
     "completed": true,
@@ -1784,6 +1970,7 @@
   {
     "id": 306,
     "content": "Add unit tests",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4670799241",
     "completed": true,
@@ -1795,6 +1982,7 @@
   {
     "id": 305,
     "content": "Buy bulb",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4670295711",
     "completed": true,
@@ -1806,6 +1994,7 @@
   {
     "id": 304,
     "content": "Buy flip flops",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4656229764",
     "completed": true,
@@ -1817,6 +2006,7 @@
   {
     "id": 303,
     "content": "Take duolingo",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4656229337",
     "completed": true,
@@ -1828,6 +2018,7 @@
   {
     "id": 302,
     "content": "Update resume",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4656227089",
     "completed": true,
@@ -1839,6 +2030,7 @@
   {
     "id": 301,
     "content": "Change navbar color for notes repo",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4621162266",
     "completed": true,
@@ -1850,6 +2042,7 @@
   {
     "id": 300,
     "content": "Format date in notes repo",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4621161781",
     "completed": true,
@@ -1861,6 +2054,7 @@
   {
     "id": 299,
     "content": "Update code website",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4621160810",
     "completed": true,
@@ -1872,6 +2066,7 @@
   {
     "id": 298,
     "content": "Update til website",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4621160359",
     "completed": true,
@@ -1883,6 +2078,7 @@
   {
     "id": 297,
     "content": "Pay electricity bill",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4620312708",
     "completed": true,
@@ -1894,6 +2090,7 @@
   {
     "id": 296,
     "content": "Pay bills for this month",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4618393995",
     "completed": true,
@@ -1905,6 +2102,7 @@
   {
     "id": 295,
     "content": "Do xunit course",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4618393562",
     "completed": true,
@@ -1916,6 +2114,7 @@
   {
     "id": 294,
     "content": "Solve leetcode 11",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4452390683",
     "completed": true,
@@ -1927,6 +2126,7 @@
   {
     "id": 293,
     "content": "Pay bill, order electric toothbrush, weight machine, renew wifi",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4448632046",
     "completed": true,
@@ -1938,6 +2138,7 @@
   {
     "id": 292,
     "content": "Complete udemy mysql section 13",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4443204636",
     "completed": true,
@@ -1949,6 +2150,7 @@
   {
     "id": 291,
     "content": "Complete udemy mysql section 12",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4443204555",
     "completed": true,
@@ -1960,6 +2162,7 @@
   {
     "id": 290,
     "content": "Backup photo",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4440631884",
     "completed": true,
@@ -1971,6 +2174,7 @@
   {
     "id": 289,
     "content": "Update readme template",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4440222025",
     "completed": true,
@@ -1982,6 +2186,7 @@
   {
     "id": 288,
     "content": "Add github action for todos repo",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4440215523",
     "completed": true,
@@ -1993,6 +2198,7 @@
   {
     "id": 287,
     "content": "Update readmes with social links",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4440106882",
     "completed": true,
@@ -2004,6 +2210,7 @@
   {
     "id": 286,
     "content": "Clean up personal bot",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4432380493",
     "completed": true,
@@ -2015,6 +2222,7 @@
   {
     "id": 285,
     "content": "Get clothes from laundry",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4430917660",
     "completed": true,
@@ -2026,6 +2234,7 @@
   {
     "id": 284,
     "content": "Fix laptop bag",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4416139115",
     "completed": true,
@@ -2037,6 +2246,7 @@
   {
     "id": 283,
     "content": "Order chaipatti, ginger, butter",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4416137541",
     "completed": true,
@@ -2048,6 +2258,7 @@
   {
     "id": 282,
     "content": "Get water can",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4411028197",
     "completed": true,
@@ -2059,6 +2270,7 @@
   {
     "id": 281,
     "content": "Setup alfred workflows",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4411012899",
     "completed": true,
@@ -2070,6 +2282,7 @@
   {
     "id": 280,
     "content": "Do laundry",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4408763223",
     "completed": true,
@@ -2081,6 +2294,7 @@
   {
     "id": 279,
     "content": "Order eggs",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4408762996",
     "completed": true,
@@ -2092,6 +2306,7 @@
   {
     "id": 278,
     "content": "Rewrite the process api using next.js",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4406495937",
     "completed": true,
@@ -2103,6 +2318,7 @@
   {
     "id": 277,
     "content": "Solve leetcode 606",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4404490830",
     "completed": true,
@@ -2114,6 +2330,7 @@
   {
     "id": 276,
     "content": "Solve leetcode 653",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4404490516",
     "completed": true,
@@ -2125,6 +2342,7 @@
   {
     "id": 275,
     "content": "Read “the old man and the sea”",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4403047822",
     "completed": true,
@@ -2136,6 +2354,7 @@
   {
     "id": 274,
     "content": "Create topic wise list of important leetcode questions",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4394926513",
     "completed": true,
@@ -2147,6 +2366,7 @@
   {
     "id": 273,
     "content": "Buy plate, cup, strainer",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4394111268",
     "completed": true,
@@ -2158,6 +2378,7 @@
   {
     "id": 272,
     "content": "Print aadhar card",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4393659012",
     "completed": true,
@@ -2169,6 +2390,7 @@
   {
     "id": 271,
     "content": "Get esim",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4393658353",
     "completed": true,
@@ -2180,6 +2402,7 @@
   {
     "id": 270,
     "content": "Add defer option for tasks",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4392138281",
     "completed": true,
@@ -2191,6 +2414,7 @@
   {
     "id": 269,
     "content": "Order from bigbasket",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4392137559",
     "completed": true,
@@ -2202,6 +2426,7 @@
   {
     "id": 268,
     "content": "Oreilly Reactive Spring Boot chapter 5",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4283714077",
     "completed": true,
@@ -2213,6 +2438,7 @@
   {
     "id": 267,
     "content": "Spring boot chapter 5",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4275949741",
     "completed": true,
@@ -2224,6 +2450,7 @@
   {
     "id": 266,
     "content": "Spring boot chapter 4",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4275949436",
     "completed": true,
@@ -2235,6 +2462,7 @@
   {
     "id": 265,
     "content": "Spring boot chapter 3",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4275948262",
     "completed": true,
@@ -2246,6 +2474,7 @@
   {
     "id": 264,
     "content": "Spring boot chapter 2",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4275947936",
     "completed": true,
@@ -2257,6 +2486,7 @@
   {
     "id": 263,
     "content": "Spring boot chapter 1",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4275947480",
     "completed": true,
@@ -2268,6 +2498,7 @@
   {
     "id": 262,
     "content": "Openshift chapter 2",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4274250975",
     "completed": true,
@@ -2279,6 +2510,7 @@
   {
     "id": 261,
     "content": "Openshift chapter 1",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4274250707",
     "completed": true,
@@ -2290,6 +2522,7 @@
   {
     "id": 260,
     "content": "Create mindmaps repo",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4274249171",
     "completed": true,
@@ -2301,6 +2534,7 @@
   {
     "id": 259,
     "content": "Create a cli for common tasks",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4271474719",
     "completed": true,
@@ -2312,6 +2546,7 @@
   {
     "id": 258,
     "content": "Create a repo for common tech questions",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4237709351",
     "completed": true,
@@ -2323,6 +2558,7 @@
   {
     "id": 257,
     "content": "Update profiles",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4237708360",
     "completed": true,
@@ -2334,6 +2570,7 @@
   {
     "id": 256,
     "content": "Update resume",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4237706910",
     "completed": true,
@@ -2345,6 +2582,7 @@
   {
     "id": 255,
     "content": "Create starter react app",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4207589213",
     "completed": true,
@@ -2356,6 +2594,7 @@
   {
     "id": 254,
     "content": "Try different auths with react app",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4207588380",
     "completed": true,
@@ -2367,6 +2606,7 @@
   {
     "id": 253,
     "content": "Setup promotheus",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4207587595",
     "completed": true,
@@ -2378,6 +2618,7 @@
   {
     "id": 252,
     "content": "Complete chapter 6 of React hooks course",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4155105554",
     "completed": true,
@@ -2389,6 +2630,7 @@
   {
     "id": 251,
     "content": "Complete chapter 5 of React Hooks course",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4155104882",
     "completed": true,
@@ -2400,6 +2642,7 @@
   {
     "id": 250,
     "content": "Complete chapter 4 of React Hooks course",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4155104314",
     "completed": true,
@@ -2411,6 +2654,7 @@
   {
     "id": 249,
     "content": "Complete chapter 3 of React Hooks course",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4155103657",
     "completed": true,
@@ -2422,6 +2666,7 @@
   {
     "id": 248,
     "content": "Complete chapter 2 of React Hooks course",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4155103307",
     "completed": true,
@@ -2433,6 +2678,7 @@
   {
     "id": 247,
     "content": "Complete chapter 1 of react hooks course",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4155102849",
     "completed": true,
@@ -2444,6 +2690,7 @@
   {
     "id": 246,
     "content": "Throw trash, order water can & efiling",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4152759279",
     "completed": true,
@@ -2455,6 +2702,7 @@
   {
     "id": 245,
     "content": "Make a common generator for generating readme and other files",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4151815941",
     "completed": true,
@@ -2466,6 +2714,7 @@
   {
     "id": 244,
     "content": "Pay electricity",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4149986370",
     "completed": true,
@@ -2477,6 +2726,7 @@
   {
     "id": 243,
     "content": "Buy sleepwear",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4149986047",
     "completed": true,
@@ -2488,6 +2738,7 @@
   {
     "id": 242,
     "content": "Fix sorting of todos in github",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4149936314",
     "completed": true,
@@ -2499,6 +2750,7 @@
   {
     "id": 241,
     "content": "Fix datewise work progress",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4149935806",
     "completed": true,
@@ -2510,6 +2762,7 @@
   {
     "id": 240,
     "content": "Do laundry",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4149021232",
     "completed": true,
@@ -2521,6 +2774,7 @@
   {
     "id": 239,
     "content": "Setup a password manager",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4148317925",
     "completed": true,
@@ -2532,6 +2786,7 @@
   {
     "id": 238,
     "content": "Pay american express bill for term insurance premium fee",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4148301988",
     "completed": true,
@@ -2543,6 +2798,7 @@
   {
     "id": 237,
     "content": "Do drug test for onboarding",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4148300287",
     "completed": true,
@@ -2554,6 +2810,7 @@
   {
     "id": 236,
     "content": "Renew domain",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4148299668",
     "completed": true,
@@ -2565,6 +2822,7 @@
   {
     "id": 235,
     "content": "Buy vim dish cleaner liquid",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4148295173",
     "completed": true,
@@ -2576,6 +2834,7 @@
   {
     "id": 234,
     "content": "Buy sleepwear and pay bills (electricity, rent, credit card)",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4147701672",
     "completed": true,
@@ -2587,6 +2846,7 @@
   {
     "id": 233,
     "content": "Order peanut butter, bread, milk, floor cleaner",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4147699838",
     "completed": true,
@@ -2598,6 +2858,7 @@
   {
     "id": 232,
     "content": "Add purge command for personal bot",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4137578390",
     "completed": true,
@@ -2609,6 +2870,7 @@
   {
     "id": 231,
     "content": "Use hooks for notes app",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4137577966",
     "completed": true,
@@ -2620,6 +2882,7 @@
   {
     "id": 230,
     "content": "Implement template pattern",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4131214457",
     "completed": true,
@@ -2631,6 +2894,7 @@
   {
     "id": 229,
     "content": "Implement middleware pattern",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4131213936",
     "completed": true,
@@ -2642,6 +2906,7 @@
   {
     "id": 228,
     "content": "Implement observers pattern",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4131213437",
     "completed": true,
@@ -2653,6 +2918,7 @@
   {
     "id": 227,
     "content": "Implement command pattern",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4131212918",
     "completed": true,
@@ -2664,6 +2930,7 @@
   {
     "id": 226,
     "content": "Implement strategy pattern",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4131212387",
     "completed": true,
@@ -2675,6 +2942,7 @@
   {
     "id": 225,
     "content": "Dependency injection design pattern",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4130287725",
     "completed": true,
@@ -2686,6 +2954,7 @@
   {
     "id": 224,
     "content": "Create a configurable component",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4125806220",
     "completed": true,
@@ -2697,6 +2966,7 @@
   {
     "id": 223,
     "content": "Generate index of my latest notes",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4123885700",
     "completed": true,
@@ -2708,6 +2978,7 @@
   {
     "id": 222,
     "content": "Generate readme with last 5 leetcode problems solved",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4122861288",
     "completed": true,
@@ -2719,6 +2990,7 @@
   {
     "id": 221,
     "content": "2km walk",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4121431814",
     "completed": true,
@@ -2730,6 +3002,7 @@
   {
     "id": 220,
     "content": "Learn composite pattern",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4121175390",
     "completed": true,
@@ -2741,6 +3014,7 @@
   {
     "id": 219,
     "content": "Learn decorator pattern",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4120958813",
     "completed": true,
@@ -2752,6 +3026,7 @@
   {
     "id": 218,
     "content": "Improve work progress",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4120664374",
     "completed": true,
@@ -2763,6 +3038,7 @@
   {
     "id": 217,
     "content": "Create generators for file",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4119972972",
     "completed": true,
@@ -2774,6 +3050,7 @@
   {
     "id": 216,
     "content": "Learn adapter pattern",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4119914651",
     "completed": true,
@@ -2785,6 +3062,7 @@
   {
     "id": 215,
     "content": "Learn proxy pattern",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4119392565",
     "completed": true,
@@ -2796,6 +3074,7 @@
   {
     "id": 214,
     "content": "generate index of all the courses I have done",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4119233511",
     "completed": true,
@@ -2807,6 +3086,7 @@
   {
     "id": 213,
     "content": "integrate forest app timer with todos",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4118314222",
     "completed": true,
@@ -2818,6 +3098,7 @@
   {
     "id": 212,
     "content": "learn builder pattern",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4118140946",
     "completed": true,
@@ -2829,6 +3110,7 @@
   {
     "id": 211,
     "content": "implement all design patterns",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4117650618",
     "completed": true,
@@ -2840,6 +3122,7 @@
   {
     "id": 210,
     "content": "pull data from netflix",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4117638419",
     "completed": true,
@@ -2851,6 +3134,7 @@
   {
     "id": 209,
     "content": "automate todos, news n other stuff",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4117518573",
     "completed": true,
@@ -2862,6 +3146,7 @@
   {
     "id": 208,
     "content": "add a 5min delay",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4117510558",
     "completed": true,
@@ -2873,6 +3158,7 @@
   {
     "id": 207,
     "content": "throw trash",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4117497847",
     "completed": true,
@@ -2884,6 +3170,7 @@
   {
     "id": 206,
     "content": "buy usb c adapter for macbook",
+    "category": null,
     "projectId": "2239311712",
     "todoId": "4117496244",
     "completed": true,
