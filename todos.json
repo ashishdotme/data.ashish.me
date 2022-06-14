@@ -257,8 +257,8 @@
     "category": "Chore",
     "projectId": "2239311712",
     "todoId": "5549413062",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-06-14T16:25:42.741Z",
     "dueDate": "2022-01-31T00:23:33.722Z",
     "createdAt": "2022-01-31T00:23:34.657Z",
     "updatedAt": "2022-04-11T19:57:38.972Z"
