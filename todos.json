@@ -29,8 +29,8 @@
     "category": "Programming",
     "projectId": "2239311712",
     "todoId": "5931062351",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-06-16T11:37:13.125Z",
     "dueDate": "2022-06-15T10:02:26.030Z",
     "createdAt": "2022-06-15T10:02:27.925Z",
     "updatedAt": "2022-06-15T10:02:27.925Z"
@@ -41,8 +41,8 @@
     "category": "Programming",
     "projectId": "2239311712",
     "todoId": "5928161482",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-06-16T12:05:46.605Z",
     "dueDate": "2022-06-14T11:13:12.186Z",
     "createdAt": "2022-06-14T11:13:13.087Z",
     "updatedAt": "2022-06-14T11:13:13.087Z"
