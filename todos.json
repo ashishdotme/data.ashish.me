@@ -1,5 +1,17 @@
 [
   {
+    "id": 491,
+    "content": "Activate revolut card",
+    "category": "Chore",
+    "projectId": "2239311712",
+    "todoId": "5934684634",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2022-06-16T15:31:07.368Z",
+    "createdAt": "2022-06-16T15:31:09.406Z",
+    "updatedAt": "2022-06-16T15:31:09.406Z"
+  },
+  {
     "id": 490,
     "content": "Complete thesis work",
     "category": "Programming",
@@ -77,8 +89,8 @@
     "category": "Shopping",
     "projectId": "2239311712",
     "todoId": "5928153975",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-06-16T15:56:28.936Z",
     "dueDate": "2022-06-14T11:09:52.936Z",
     "createdAt": "2022-06-14T11:09:55.195Z",
     "updatedAt": "2022-06-14T11:09:55.195Z"
