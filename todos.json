@@ -1,5 +1,17 @@
 [
   {
+    "id": 492,
+    "content": "Complete pluralsight more object oriented course",
+    "category": "Programming",
+    "projectId": "2239311712",
+    "todoId": "5949255225",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2022-06-22T12:05:50.962Z",
+    "createdAt": "2022-06-22T12:05:52.774Z",
+    "updatedAt": "2022-06-22T12:05:52.774Z"
+  },
+  {
     "id": 491,
     "content": "Activate revolut card",
     "category": "Chore",
@@ -29,8 +41,8 @@
     "category": "Programming",
     "projectId": "2239311712",
     "todoId": "5932549037",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-06-22T10:54:44.086Z",
     "dueDate": "2022-06-15T19:35:35.743Z",
     "createdAt": "2022-06-15T19:35:37.114Z",
     "updatedAt": "2022-06-15T19:35:37.114Z"
