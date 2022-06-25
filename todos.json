@@ -1,12 +1,24 @@
 [
   {
+    "id": 493,
+    "content": "Complete worker API",
+    "category": "Programming",
+    "projectId": "2239311712",
+    "todoId": "5955987726",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2022-06-24T20:49:03.073Z",
+    "createdAt": "2022-06-24T20:49:05.035Z",
+    "updatedAt": "2022-06-24T20:49:05.035Z"
+  },
+  {
     "id": 492,
     "content": "Complete pluralsight more object oriented course",
     "category": "Programming",
     "projectId": "2239311712",
     "todoId": "5949255225",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-06-24T20:41:00.850Z",
     "dueDate": "2022-06-22T12:05:50.962Z",
     "createdAt": "2022-06-22T12:05:52.774Z",
     "updatedAt": "2022-06-22T12:05:52.774Z"
@@ -29,8 +41,8 @@
     "category": "Programming",
     "projectId": "2239311712",
     "todoId": "5932965458",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-06-24T20:41:05.045Z",
     "dueDate": "2022-06-15T23:25:09.445Z",
     "createdAt": "2022-06-15T23:25:11.171Z",
     "updatedAt": "2022-06-15T23:25:11.171Z"
