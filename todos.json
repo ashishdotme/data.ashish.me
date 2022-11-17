@@ -1,5 +1,29 @@
 [
   {
+    "id": 509,
+    "content": "Fix deploy pipeline",
+    "category": "Chore",
+    "projectId": "2239311712",
+    "todoId": "6360683648",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2022-11-17T16:35:11.505Z",
+    "createdAt": "2022-11-17T16:35:14.334Z",
+    "updatedAt": "2022-11-17T16:35:14.334Z"
+  },
+  {
+    "id": 508,
+    "content": "Send irp card",
+    "category": "Chore",
+    "projectId": "2239311712",
+    "todoId": "6360683041",
+    "completed": true,
+    "completedDate": "2022-11-17T17:23:13.739Z",
+    "dueDate": "2022-11-17T16:34:57.264Z",
+    "createdAt": "2022-11-17T16:35:00.603Z",
+    "updatedAt": "2022-11-17T16:35:00.603Z"
+  },
+  {
     "id": 507,
     "content": "Find deepfake project",
     "category": "Programming",
@@ -29,8 +53,8 @@
     "category": "Programming",
     "projectId": "2239311712",
     "todoId": "6357818713",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-11-17T17:25:50.847Z",
     "dueDate": "2022-11-16T18:30:07.772Z",
     "createdAt": "2022-11-16T18:30:09.207Z",
     "updatedAt": "2022-11-16T18:30:09.207Z"
