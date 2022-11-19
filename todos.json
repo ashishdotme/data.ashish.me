@@ -41,8 +41,8 @@
     "category": "Shopping",
     "projectId": "2239311712",
     "todoId": "6357866203",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-11-19T18:18:22.824Z",
     "dueDate": "2022-11-16T18:46:34.532Z",
     "createdAt": "2022-11-16T18:46:35.937Z",
     "updatedAt": "2022-11-16T18:46:35.937Z"
@@ -77,8 +77,8 @@
     "category": "Programming",
     "projectId": "2239311712",
     "todoId": "6356417399",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-11-19T18:18:20.111Z",
     "dueDate": "2022-11-16T10:47:47.188Z",
     "createdAt": "2022-11-16T10:47:51.178Z",
     "updatedAt": "2022-11-16T10:47:51.178Z"
@@ -125,8 +125,8 @@
     "category": "Shopping",
     "projectId": "2239311712",
     "todoId": "6351913654",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-11-19T18:18:07.864Z",
     "dueDate": "2022-11-14T23:21:10.854Z",
     "createdAt": "2022-11-14T23:21:12.430Z",
     "updatedAt": "2022-11-14T23:21:12.430Z"
