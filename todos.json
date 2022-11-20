@@ -1,5 +1,17 @@
 [
   {
+    "id": 510,
+    "content": "Buy small fridge storage box",
+    "category": "Shopping",
+    "projectId": "2239311712",
+    "todoId": "6366728024",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2022-11-19T23:58:27.907Z",
+    "createdAt": "2022-11-19T23:58:30.476Z",
+    "updatedAt": "2022-11-19T23:58:30.476Z"
+  },
+  {
     "id": 509,
     "content": "Fix deploy pipeline",
     "category": "Chore",
@@ -65,8 +77,8 @@
     "category": "Programming",
     "projectId": "2239311712",
     "todoId": "6357220300",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-11-19T23:58:35.572Z",
     "dueDate": "2022-11-16T15:17:34.665Z",
     "createdAt": "2022-11-16T15:17:36.382Z",
     "updatedAt": "2022-11-16T15:17:36.382Z"
@@ -101,8 +113,8 @@
     "category": "Chore",
     "projectId": "2239311712",
     "todoId": "6354573415",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-11-19T23:58:50.313Z",
     "dueDate": "2022-11-15T18:46:03.498Z",
     "createdAt": "2022-11-15T18:46:05.495Z",
     "updatedAt": "2022-11-15T18:46:05.495Z"
