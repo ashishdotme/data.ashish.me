@@ -5,8 +5,8 @@
     "category": "Shopping",
     "projectId": "2239311712",
     "todoId": "6366728024",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-11-21T13:11:29.809Z",
     "dueDate": "2022-11-19T23:58:27.907Z",
     "createdAt": "2022-11-19T23:58:30.476Z",
     "updatedAt": "2022-11-19T23:58:30.476Z"
@@ -17,8 +17,8 @@
     "category": "Chore",
     "projectId": "2239311712",
     "todoId": "6360683648",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2022-11-21T13:11:36.818Z",
     "dueDate": "2022-11-17T16:35:11.505Z",
     "createdAt": "2022-11-17T16:35:14.334Z",
     "updatedAt": "2022-11-17T16:35:14.334Z"
