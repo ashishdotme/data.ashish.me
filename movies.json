@@ -1,5 +1,47 @@
 [
   {
+    "id": 124,
+    "title": "Red Eye",
+    "description": "A woman is kidnapped by a stranger on a routine flight. Threatened by the potential murder of her father, she is pulled into a plot to assist her captor in a political assassination.",
+    "language": "English",
+    "year": 2005,
+    "genre": "Thriller",
+    "viewingDate": "2024-08-26T00:20:23.944Z",
+    "loved": true,
+    "imdbRating": "6.5",
+    "imdbId": "tt0421239",
+    "createdAt": "2024-08-26T00:20:24.537Z",
+    "updatedAt": "2024-08-26T00:20:24.537Z"
+  },
+  {
+    "id": 119,
+    "title": "Oddity",
+    "description": "A psychic medium attempts to uncover the truth behind her sister's murder at the site of the crime.",
+    "language": "English",
+    "year": 2024,
+    "genre": "Horror, Thriller",
+    "viewingDate": "2024-08-23T23:00:00.000Z",
+    "loved": true,
+    "imdbRating": "7.5",
+    "imdbId": "tt26470109",
+    "createdAt": "2024-08-25T09:58:01.078Z",
+    "updatedAt": "2024-08-25T09:58:01.078Z"
+  },
+  {
+    "id": 123,
+    "title": "Past Lives",
+    "description": "Nora and Hae Sung, two deeply connected childhood friends, are wrested apart after Nora's family emigrates from South Korea. Twenty years later, they are reunited for one fateful week as they confront notions of love and destiny.",
+    "language": "English",
+    "year": 2023,
+    "genre": "Drama, Romance",
+    "viewingDate": "2024-04-03T00:00:00.000Z",
+    "loved": true,
+    "imdbRating": "7.8",
+    "imdbId": "tt13238346",
+    "createdAt": "2024-08-26T00:16:03.643Z",
+    "updatedAt": "2024-08-26T00:16:03.643Z"
+  },
+  {
     "id": 118,
     "title": "Meet the Parents",
     "description": "Male nurse Greg Focker meets his girlfriend's parents before proposing, but her suspicious father is every date's worst nightmare.",
