@@ -28,10 +28,10 @@ jobs:
         pip install -r requirements.txt
     - name: Get latest data
       run: |
-        curl https://systemapi.prod.ashish.me/movies | jq . > movies.json
-        curl https://systemapi.prod.ashish.me/shows | jq . > shows.json
-        curl https://systemapi.prod.ashish.me/books | jq . > books.json
-        curl https://systemapi.prod.ashish.me/todos | jq . > todos.json
+        curl https://api.ashish.me/movies | jq . > movies.json
+        curl https://api.ashish.me/shows | jq . > shows.json
+        curl https://api.ashish.me/books | jq . > books.json
+        curl https://api.ashish.me/todos | jq . > todos.json
         # wget https://ashishdotme-downloads.s3.eu-west-1.amazonaws.com/export.zip
     - name: Commit and push if s changed
       run: |-
