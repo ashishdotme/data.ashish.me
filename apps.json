@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Movies",
+        "icon": "https://cdn.lordicon.com/tdxypxgp.json",
+        "link": "https://movies.ashish.me"
+    },
+    {
+        "title": "TV Shows",
+        "icon": "https://cdn.lordicon.com/qhgmphtg.json",
+        "link": "https://shows.ashish.me"
+    },
+    {
+        "title": "Books",
+        "icon": "https://cdn.lordicon.com/wxnxiano.json",
+        "link": "https://books.ashish.me"
+    },
+    {
+        "title": "Code",
+        "icon": "https://cdn.lordicon.com/anihkfxp.json",
+        "link": "https://code.ashish.me"
+    },
+    {
+        "title": "Notes",
+        "icon": "https://cdn.lordicon.com/wloilxuq.json",
+        "link": "https://notes.ashish.me"
+    },
+    {
+        "title": "Now",
+        "icon": "https://cdn.lordicon.com/tvyxmjyo.json",
+        "link": "https://now.ashish.me"
+    },
+    {
+        "title": "UI",
+        "icon": "https://cdn.lordicon.com/jvucoldz.json",
+        "link": "https://ui.ashish.me"
+    },
+    {
+        "title": "Go",
+        "icon": "https://cdn.lordicon.com/udwhdpod.json",
+        "link": "https://go.ashish.me"
+    },
+    {
+        "title": "Status",
+        "icon": "https://cdn.lordicon.com/sbiheqdr.json",
+        "link": "https://status.ashish.me"
+    }
+]
