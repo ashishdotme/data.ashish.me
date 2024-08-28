@@ -4,8 +4,7 @@ on:
   workflow_dispatch:
   push:
   schedule:
-    - cron:  '41 1,7,13 * * *'
-    - cron:  '41 19 * * *'
+    - cron:  '0 0 * * *'
 
 jobs:
   scheduled:
@@ -33,7 +32,7 @@ jobs:
         curl https://systemapi.prod.ashish.me/shows | jq . > shows.json
         curl https://systemapi.prod.ashish.me/books | jq . > books.json
         curl https://systemapi.prod.ashish.me/todos | jq . > todos.json
-        wget https://ashishdotme-downloads.s3.eu-west-1.amazonaws.com/export.zip
+        # wget https://ashishdotme-downloads.s3.eu-west-1.amazonaws.com/export.zip
     - name: Commit and push if s changed
       run: |-
         git config user.name "Automated"
@@ -48,57 +47,57 @@ jobs:
         sqlite-utils insert ashish.db shows shows.json --pk=id
         sqlite-utils insert ashish.db books books.json --pk=id
         sqlite-utils insert ashish.db todos todos.json --pk=id
-        healthkit-to-sqlite export.zip health.db
-        sqlite-utils drop-table health.db rActiveEnergyBurned
-        sqlite-utils drop-table health.db rAppleExerciseTime
-        sqlite-utils drop-table health.db rAppleStandHour
-        sqlite-utils drop-table health.db rAppleStandTime
-        sqlite-utils drop-table health.db rAppleWalkingSteadiness
-        sqlite-utils drop-table health.db rBasalEnergyBurned
-        sqlite-utils drop-table health.db rBodyMass
-        sqlite-utils drop-table health.db rDistanceWalkingRunning
-        sqlite-utils drop-table health.db rFlightsClimbed
-        sqlite-utils drop-table health.db rHeadphoneAudioExposure
-        sqlite-utils drop-table health.db rHeartRate
-        sqlite-utils drop-table health.db rHeartRateVariabilitySDNN
-        sqlite-utils drop-table health.db rHeight
-        sqlite-utils drop-table health.db rHKDataTypeSleepDurationGoal
-        sqlite-utils drop-table health.db rMindfulSession
-        sqlite-utils drop-table health.db rRespiratoryRate
-        sqlite-utils drop-table health.db rRestingHeartRate
-        sqlite-utils drop-table health.db rSixMinuteWalkTestDistance
-        sqlite-utils drop-table health.db rVO2Max
-        sqlite-utils drop-table health.db rWalkingAsymmetryPercentage
-        sqlite-utils drop-table health.db rWalkingDoubleSupportPercentage
-        sqlite-utils drop-table health.db rWalkingHeartRateAverage
-        sqlite-utils drop-table health.db rWalkingSpeed
-        sqlite-utils drop-table health.db rWalkingStepLength
-        sqlite-utils drop-table health.db workout_points
-        sqlite-utils drop-table health.db workouts
-        sqlite-utils vacuum health.db
-    - name: Create auth.json with auth info
-      shell: bash
-      env:
-        POCKET_TOKEN: ${{ secrets.POCKET_TOKEN }}
-      run: 'echo " $POCKET_TOKEN" > auth.json'
-    - name: Run pocket-to-sqlite
-      env:
-        POCKET_TOKEN: ${{ secrets.POCKET_TOKEN }}
-      run: |
-        pocket-to-sqlite fetch bookmarks.db
-        sqlite-utils transform bookmarks.db items --drop images
-        github-to-sqlite repos github.db ashishdotme
-    - name: Deploy to Vercel
-      env:
-        VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-      run: |-
-        datasette publish vercel ashish.db health.db bookmarks.db github.db  \
-          --token $VERCEL_TOKEN \
-          --project ashish-db \
-          --title "data.ashish.me" \
-          --about "personal database" \
-          --about_url "https://github.com/ashishdotme/data.ashish.me" \
-          --install datasette-graphql \
-          --install datasette-block-robots \
-          --install datasette-pretty-json \
-          --template-dir "templates"
+        # healthkit-to-sqlite export.zip health.db
+        # sqlite-utils drop-table health.db rActiveEnergyBurned
+        # sqlite-utils drop-table health.db rAppleExerciseTime
+        # sqlite-utils drop-table health.db rAppleStandHour
+        # sqlite-utils drop-table health.db rAppleStandTime
+        # sqlite-utils drop-table health.db rAppleWalkingSteadiness
+        # sqlite-utils drop-table health.db rBasalEnergyBurned
+        # sqlite-utils drop-table health.db rBodyMass
+        # sqlite-utils drop-table health.db rDistanceWalkingRunning
+        # sqlite-utils drop-table health.db rFlightsClimbed
+        # sqlite-utils drop-table health.db rHeadphoneAudioExposure
+        # sqlite-utils drop-table health.db rHeartRate
+        # sqlite-utils drop-table health.db rHeartRateVariabilitySDNN
+        # sqlite-utils drop-table health.db rHeight
+        # sqlite-utils drop-table health.db rHKDataTypeSleepDurationGoal
+        # sqlite-utils drop-table health.db rMindfulSession
+        # sqlite-utils drop-table health.db rRespiratoryRate
+        # sqlite-utils drop-table health.db rRestingHeartRate
+        # sqlite-utils drop-table health.db rSixMinuteWalkTestDistance
+        # sqlite-utils drop-table health.db rVO2Max
+        # sqlite-utils drop-table health.db rWalkingAsymmetryPercentage
+        # sqlite-utils drop-table health.db rWalkingDoubleSupportPercentage
+        # sqlite-utils drop-table health.db rWalkingHeartRateAverage
+        # sqlite-utils drop-table health.db rWalkingSpeed
+        # sqlite-utils drop-table health.db rWalkingStepLength
+        # sqlite-utils drop-table health.db workout_points
+        # sqlite-utils drop-table health.db workouts
+        # sqlite-utils vacuum health.db
+    # - name: Create auth.json with auth info
+    #   shell: bash
+    #   env:
+    #     POCKET_TOKEN: ${{ secrets.POCKET_TOKEN }}
+    #   run: 'echo " $POCKET_TOKEN" > auth.json'
+    # - name: Run pocket-to-sqlite
+    #   env:
+    #     POCKET_TOKEN: ${{ secrets.POCKET_TOKEN }}
+    #   run: |
+    #     pocket-to-sqlite fetch bookmarks.db
+    #     sqlite-utils transform bookmarks.db items --drop images
+    #     github-to-sqlite repos github.db ashishdotme
+    # - name: Deploy to Vercel
+    #   env:
+    #     VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+    #   run: |-
+    #     datasette publish vercel ashish.db  \
+    #       --token $VERCEL_TOKEN \
+    #       --project ashish-db \
+    #       --title "data.ashish.me" \
+    #       --about "personal database" \
+    #       --about_url "https://github.com/ashishdotme/data.ashish.me" \
+    #       --install datasette-graphql \
+    #       --install datasette-block-robots \
+    #       --install datasette-pretty-json \
+    #       --template-dir "templates"
