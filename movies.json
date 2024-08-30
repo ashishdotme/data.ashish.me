@@ -1,5 +1,33 @@
 [
   {
+    "id": 126,
+    "title": "Hunger",
+    "description": "Irish republican Bobby Sands leads the inmates of a Northern Irish prison in a hunger strike.",
+    "language": "English",
+    "year": 2008,
+    "genre": "Biography, Crime, Drama",
+    "viewingDate": "2024-08-30T20:59:45.903Z",
+    "loved": true,
+    "imdbRating": "7.5",
+    "imdbId": "tt0986233",
+    "createdAt": "2024-08-30T20:59:46.516Z",
+    "updatedAt": "2024-08-30T20:59:46.516Z"
+  },
+  {
+    "id": 125,
+    "title": "American Psycho",
+    "description": "A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.",
+    "language": "English",
+    "year": 2000,
+    "genre": "Crime, Drama, Horror",
+    "viewingDate": "2024-08-30T20:57:59.445Z",
+    "loved": true,
+    "imdbRating": "7.6",
+    "imdbId": "tt0144084",
+    "createdAt": "2024-08-30T20:58:00.182Z",
+    "updatedAt": "2024-08-30T20:58:00.182Z"
+  },
+  {
     "id": 124,
     "title": "Red Eye",
     "description": "A woman is kidnapped by a stranger on a routine flight. Threatened by the potential murder of her father, she is pulled into a plot to assist her captor in a political assassination.",
