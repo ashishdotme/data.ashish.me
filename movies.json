@@ -14,6 +14,20 @@
     "updatedAt": "2024-08-26T00:20:24.537Z"
   },
   {
+    "id": 140,
+    "title": "Hunger",
+    "description": "Irish republican Bobby Sands leads the inmates of a Northern Irish prison in a hunger strike.",
+    "language": "English",
+    "year": 2008,
+    "genre": "Biography, Crime, Drama, Thriller",
+    "viewingDate": "2024-08-25T23:00:00.000Z",
+    "loved": true,
+    "imdbRating": "7.5",
+    "imdbId": "tt0986233",
+    "createdAt": "2024-08-31T01:15:04.272Z",
+    "updatedAt": "2024-08-31T01:15:04.272Z"
+  },
+  {
     "id": 119,
     "title": "Oddity",
     "description": "A psychic medium attempts to uncover the truth behind her sister's murder at the site of the crime.",
@@ -26,6 +40,20 @@
     "imdbId": "tt26470109",
     "createdAt": "2024-08-25T09:58:01.078Z",
     "updatedAt": "2024-08-25T09:58:01.078Z"
+  },
+  {
+    "id": 139,
+    "title": "American Psycho",
+    "description": "A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.",
+    "language": "English",
+    "year": 2000,
+    "genre": "Crime, Drama, Horror",
+    "viewingDate": "2024-08-16T23:00:00.000Z",
+    "loved": true,
+    "imdbRating": "7.6",
+    "imdbId": "tt0144084",
+    "createdAt": "2024-08-31T01:14:21.880Z",
+    "updatedAt": "2024-08-31T01:14:21.880Z"
   },
   {
     "id": 123,
