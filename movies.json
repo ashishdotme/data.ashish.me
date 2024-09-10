@@ -1,5 +1,35 @@
 [
   {
+    "id": 143,
+    "title": "Mother!",
+    "description": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
+    "review": null,
+    "language": "English",
+    "year": 2017,
+    "genre": "Drama, Horror, Mystery",
+    "viewingDate": "2024-09-08T00:00:00.000Z",
+    "loved": true,
+    "imdbRating": "6.6",
+    "imdbId": "tt5109784",
+    "createdAt": "2024-09-09T13:33:44.651Z",
+    "updatedAt": "2024-09-09T13:33:44.651Z"
+  },
+  {
+    "id": 144,
+    "title": "The Chaser",
+    "description": "A disgraced ex-policeman who runs a small ring of prostitutes finds himself in a race against time when one of his women goes missing.",
+    "review": null,
+    "language": "Korean",
+    "year": 2008,
+    "genre": "Action, Crime, Drama, Thriller",
+    "viewingDate": "2024-09-07T00:00:00.000Z",
+    "loved": true,
+    "imdbRating": "7.8",
+    "imdbId": "tt1190539",
+    "createdAt": "2024-09-09T13:34:03.116Z",
+    "updatedAt": "2024-09-09T13:34:03.116Z"
+  },
+  {
     "id": 124,
     "title": "Red Eye",
     "description": "A woman is kidnapped by a stranger on a routine flight. Threatened by the potential murder of her father, she is pulled into a plot to assist her captor in a political assassination.",
