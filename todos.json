@@ -1,17 +1,5 @@
 [
   {
-    "id": 522,
-    "content": "",
-    "category": "Now",
-    "projectId": "2239311712",
-    "todoId": "123",
-    "completed": false,
-    "completedDate": null,
-    "dueDate": "2024-09-21T15:06:17.370Z",
-    "createdAt": "2024-09-21T15:06:17.372Z",
-    "updatedAt": "2024-09-21T15:06:17.372Z"
-  },
-  {
     "id": 521,
     "content": "Get steps from iPhone",
     "category": "Now",
