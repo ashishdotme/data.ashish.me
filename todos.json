@@ -41,8 +41,8 @@
     "category": "Now",
     "projectId": "2239311712",
     "todoId": "123",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2024-10-16T00:40:44.771Z",
     "dueDate": "2024-10-14T21:15:32.045Z",
     "createdAt": "2024-10-14T21:15:32.075Z",
     "updatedAt": "2024-10-14T21:15:32.075Z"
