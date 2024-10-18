@@ -1,5 +1,20 @@
 [
   {
+    "id": 146,
+    "title": "Animal",
+    "description": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
+    "review": null,
+    "language": "Hindi",
+    "year": 2023,
+    "genre": "Action, Crime, Drama, Thriller",
+    "viewingDate": "2024-10-18T00:12:18.401Z",
+    "loved": true,
+    "imdbRating": "6.1",
+    "imdbId": "tt13751694",
+    "createdAt": "2024-10-18T00:15:19.998Z",
+    "updatedAt": "2024-10-18T00:15:19.998Z"
+  },
+  {
     "id": 143,
     "title": "Mother!",
     "description": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
