@@ -1,18 +1,33 @@
 [
   {
-    "id": 146,
-    "title": "Animal",
-    "description": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
+    "id": 147,
+    "title": "Barbarian",
+    "description": "A woman staying at an Airbnb discovers that the house she has rented is not what it seems.",
     "review": null,
-    "language": "Hindi",
-    "year": 2023,
-    "genre": "Action, Crime, Drama, Thriller",
-    "viewingDate": "2024-10-18T00:12:18.401Z",
+    "language": "English",
+    "year": 2022,
+    "genre": "Horror, Mystery, Thriller",
+    "viewingDate": "2024-10-17T23:00:00.000Z",
     "loved": true,
-    "imdbRating": "6.1",
-    "imdbId": "tt13751694",
-    "createdAt": "2024-10-18T00:15:19.998Z",
-    "updatedAt": "2024-10-18T00:15:19.998Z"
+    "imdbRating": "7.0",
+    "imdbId": "tt15791034",
+    "createdAt": "2024-10-19T11:09:40.297Z",
+    "updatedAt": "2024-10-19T11:09:40.297Z"
+  },
+  {
+    "id": 148,
+    "title": "Deadpool & Wolverine",
+    "description": "Deadpool is offered a place in the Marvel Cinematic Universe by the Time Variance Authority, but instead recruits a variant of Wolverine to save his universe from extinction.",
+    "review": null,
+    "language": "English",
+    "year": 2024,
+    "genre": "Action, Adventure, Comedy, Sci-Fi",
+    "viewingDate": "2024-10-05T23:00:00.000Z",
+    "loved": true,
+    "imdbRating": "7.8",
+    "imdbId": "tt6263850",
+    "createdAt": "2024-10-19T11:12:30.346Z",
+    "updatedAt": "2024-10-19T11:12:30.346Z"
   },
   {
     "id": 143,
@@ -118,6 +133,21 @@
     "imdbId": "tt13238346",
     "createdAt": "2024-08-26T00:16:03.643Z",
     "updatedAt": "2024-08-26T00:16:03.643Z"
+  },
+  {
+    "id": 146,
+    "title": "Animal",
+    "description": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
+    "review": null,
+    "language": "Hindi",
+    "year": 2023,
+    "genre": "Action, Crime, Drama, Thriller",
+    "viewingDate": "2024-02-22T01:12:18.000Z",
+    "loved": true,
+    "imdbRating": "6.1",
+    "imdbId": "tt13751694",
+    "createdAt": "2024-10-18T00:15:19.998Z",
+    "updatedAt": "2024-10-19T11:11:57.274Z"
   },
   {
     "id": 118,
