@@ -1,12 +1,36 @@
 [
   {
-    "id": 529,
-    "content": "Update uses page",
+    "id": 531,
+    "content": "Fix newsletter",
     "category": "Now",
     "projectId": "2239311712",
     "todoId": "123",
     "completed": false,
     "completedDate": null,
+    "dueDate": "2024-10-20T15:53:17.984Z",
+    "createdAt": "2024-10-20T15:53:17.985Z",
+    "updatedAt": "2024-10-20T15:53:17.985Z"
+  },
+  {
+    "id": 530,
+    "content": "Create books page",
+    "category": "Now",
+    "projectId": "2239311712",
+    "todoId": "123",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2024-10-20T15:52:50.926Z",
+    "createdAt": "2024-10-20T15:52:50.928Z",
+    "updatedAt": "2024-10-20T15:52:50.928Z"
+  },
+  {
+    "id": 529,
+    "content": "Update uses page",
+    "category": "Now",
+    "projectId": "2239311712",
+    "todoId": "123",
+    "completed": true,
+    "completedDate": "2024-10-20T14:16:30.774Z",
     "dueDate": "2024-10-14T23:22:36.454Z",
     "createdAt": "2024-10-14T23:22:36.455Z",
     "updatedAt": "2024-10-14T23:22:36.455Z"
@@ -29,8 +53,8 @@
     "category": "Now",
     "projectId": "2239311712",
     "todoId": "123",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2024-10-20T14:16:03.128Z",
     "dueDate": "2024-10-14T22:37:24.564Z",
     "createdAt": "2024-10-14T22:37:24.600Z",
     "updatedAt": "2024-10-14T22:37:24.600Z"
