@@ -1,15 +1,30 @@
 [
   {
-    "id": 1,
+    "id": 11,
+    "title": "Atomic Habits",
+    "author": " James Clear",
+    "poster": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655988385i/40121378.jpg",
+    "description": "No matter your goals, Atomic Habits offers a proven framework for improving—every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
+    "notes": "Atomic Habits",
+    "year": 2018,
+    "genre": "Personal Development",
+    "completedDate": "2023-02-08T00:00:00.000Z",
+    "loved": true,
+    "createdAt": "2024-10-22T14:53:34.755Z",
+    "updatedAt": "2024-10-22T14:53:34.755Z"
+  },
+  {
+    "id": 9,
     "title": "The Alchemist",
     "author": "Paulo Coelho",
-    "description": "This story, dazzling in its powerful simplicity and inspiring wisdom, is about an Andalusian shepherd boy named Santiago who travels from his homeland in Spain to the Egyptian",
-    "notes": "Loved it",
-    "year": 1989,
+    "poster": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg",
+    "description": "Santiago, a young shepherd living in the hills of Andalucia, feels that there is more to life than his humble home and his flock. One day he finds the courage to follow his dreams into distant lands, each step galvanised by the knowledge that he is following the right path: his own. The people he meets along the way, the things he sees and the wisdom he learns are life-changing.",
+    "notes": "",
+    "year": 2015,
     "genre": "Fiction",
-    "completedDate": "2021-11-10T00:00:00.000Z",
+    "completedDate": "2015-05-05T23:00:00.000Z",
     "loved": true,
-    "createdAt": "2021-12-10T02:30:55.368Z",
-    "updatedAt": "2021-12-10T05:22:13.941Z"
+    "createdAt": "2024-10-22T14:51:01.750Z",
+    "updatedAt": "2024-10-22T14:51:01.750Z"
   }
 ]
