@@ -1,5 +1,17 @@
 [
   {
+    "id": 532,
+    "content": "Fix time zone in health data",
+    "category": "Now",
+    "projectId": "2239311712",
+    "todoId": "123",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2024-10-24T21:19:52.967Z",
+    "createdAt": "2024-10-24T21:19:53.001Z",
+    "updatedAt": "2024-10-24T21:19:53.001Z"
+  },
+  {
     "id": 531,
     "content": "Fix newsletter",
     "category": "Now",
@@ -77,8 +89,8 @@
     "category": "Now",
     "projectId": "2239311712",
     "todoId": "123",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2024-10-24T21:19:55.769Z",
     "dueDate": "2024-09-18T18:50:16.631Z",
     "createdAt": "2024-09-18T18:50:16.648Z",
     "updatedAt": "2024-09-18T18:50:16.648Z"
