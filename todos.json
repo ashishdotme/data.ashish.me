@@ -5,8 +5,8 @@
     "category": "Now",
     "projectId": "671d02e0eba7b8000000022f",
     "todoId": "6721f8abeba7b80000000040",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2024-10-31T00:29:13.637Z",
     "dueDate": "2024-10-30T09:14:19.734Z",
     "createdAt": "2024-10-30T09:14:19.735Z",
     "updatedAt": "2024-10-30T09:14:19.735Z"
