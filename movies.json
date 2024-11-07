@@ -165,6 +165,21 @@
     "updatedAt": "2024-08-31T01:14:21.880Z"
   },
   {
+    "id": 158,
+    "title": "Stree 2: Sarkate Ka Aatank",
+    "description": "After the events of Stree, the town of Chanderi is being haunted again. This time, women are mysteriously abducted by a terrifying headless entity. Once again, it's up to Vicky and his friends to save their town and loved ones.",
+    "review": null,
+    "language": "Hindi",
+    "year": 2024,
+    "genre": "Comedy, Horror",
+    "viewingDate": "2024-08-16T15:17:27.832Z",
+    "loved": true,
+    "imdbRating": "7.1",
+    "imdbId": "tt27510174",
+    "createdAt": "2024-11-06T23:52:50.518Z",
+    "updatedAt": "2024-11-06T23:52:50.518Z"
+  },
+  {
     "id": 123,
     "title": "Past Lives",
     "description": "Nora and Hae Sung, two deeply connected childhood friends, are wrested apart after Nora's family emigrates from South Korea. Twenty years later, they are reunited for one fateful week as they confront notions of love and destiny.",
@@ -178,6 +193,21 @@
     "imdbId": "tt13238346",
     "createdAt": "2024-08-26T00:16:03.643Z",
     "updatedAt": "2024-08-26T00:16:03.643Z"
+  },
+  {
+    "id": 159,
+    "title": "Oppenheimer",
+    "description": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
+    "review": null,
+    "language": "English",
+    "year": 2023,
+    "genre": "Biography, Drama, History",
+    "viewingDate": "2024-03-11T04:36:17.301Z",
+    "loved": true,
+    "imdbRating": "8.3",
+    "imdbId": "tt15398776",
+    "createdAt": "2024-11-06T23:54:03.121Z",
+    "updatedAt": "2024-11-06T23:54:03.121Z"
   },
   {
     "id": 146,
@@ -208,6 +238,21 @@
     "imdbId": "tt18413766",
     "createdAt": "2024-10-28T23:52:53.364Z",
     "updatedAt": "2024-10-28T23:52:53.364Z"
+  },
+  {
+    "id": 156,
+    "title": "Bhool Bhulaiyaa 2",
+    "description": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit that has been trapped for 18 years.",
+    "review": null,
+    "language": "Hindi",
+    "year": 2022,
+    "genre": "Comedy, Horror",
+    "viewingDate": "2022-06-07T23:00:00.000Z",
+    "loved": true,
+    "imdbRating": "5.7",
+    "imdbId": "tt6455162",
+    "createdAt": "2024-11-06T23:33:09.217Z",
+    "updatedAt": "2024-11-06T23:33:09.217Z"
   },
   {
     "id": 118,
@@ -1513,6 +1558,21 @@
     "imdbId": "tt0034583",
     "createdAt": "2021-12-12T05:45:19.393Z",
     "updatedAt": "2021-12-12T05:45:19.393Z"
+  },
+  {
+    "id": 155,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "description": "Harry Potter lives his second year at Hogwarts with Ron and Hermione when a message on the wall announces that the legendary Chamber of Secrets has been opened. The trio soon realize that, to save the school, it will take a lot of courage.",
+    "review": null,
+    "language": "English",
+    "year": 2002,
+    "genre": "Adventure, Family, Fantasy, Mystery",
+    "viewingDate": "2008-03-12T00:00:00.000Z",
+    "loved": true,
+    "imdbRating": "7.4",
+    "imdbId": "tt0295297",
+    "createdAt": "2024-11-06T23:27:52.562Z",
+    "updatedAt": "2024-11-06T23:27:52.562Z"
   },
   {
     "id": 96,

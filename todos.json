@@ -1,5 +1,41 @@
 [
   {
+    "id": 559,
+    "content": "Add date range picker in todos",
+    "category": "Now",
+    "projectId": "671d02e0eba7b8000000022f",
+    "todoId": "672c0332eba7b80000000415",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2024-11-07T00:01:34.940Z",
+    "createdAt": "2024-11-07T00:01:34.942Z",
+    "updatedAt": "2024-11-07T00:01:34.942Z"
+  },
+  {
+    "id": 558,
+    "content": "Add autocomplete in movie create page",
+    "category": "Now",
+    "projectId": "671d02e0eba7b8000000022f",
+    "todoId": "672be9fceba7b800000003af",
+    "completed": true,
+    "completedDate": "2024-11-07T00:01:35.124Z",
+    "dueDate": "2024-11-06T22:13:32.832Z",
+    "createdAt": "2024-11-06T22:13:32.834Z",
+    "updatedAt": "2024-11-06T22:13:32.834Z"
+  },
+  {
+    "id": 557,
+    "content": "Add date range picker in movies page",
+    "category": "Now",
+    "projectId": "671d02e0eba7b8000000022f",
+    "todoId": "672b9ecd8f08191c6ac161a8",
+    "completed": true,
+    "completedDate": "2024-11-06T22:13:33.029Z",
+    "dueDate": "2024-11-06T16:52:28.932Z",
+    "createdAt": "2024-11-06T16:52:29.687Z",
+    "updatedAt": "2024-11-06T16:52:29.687Z"
+  },
+  {
     "id": 556,
     "content": "Improve login and logout page",
     "category": "Now",
@@ -29,8 +65,8 @@
     "category": "Now",
     "projectId": "671d02e0eba7b8000000022f",
     "todoId": "6720255feba7b800000009fc",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2024-11-07T00:00:35.204Z",
     "dueDate": "2024-10-28T23:59:41.793Z",
     "createdAt": "2024-10-28T23:59:41.795Z",
     "updatedAt": "2024-10-28T23:59:41.795Z"
@@ -41,8 +77,8 @@
     "category": "Now",
     "projectId": "671d02e0eba7b8000000022f",
     "todoId": "6720235deba7b800000009ea",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2024-11-07T00:00:35.365Z",
     "dueDate": "2024-10-28T23:51:41.566Z",
     "createdAt": "2024-10-28T23:51:41.569Z",
     "updatedAt": "2024-10-28T23:51:41.569Z"
