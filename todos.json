@@ -1,12 +1,36 @@
 [
   {
+    "id": 561,
+    "content": "Add api to send push notification",
+    "category": "Now",
+    "projectId": "671d02e0eba7b8000000022f",
+    "todoId": "672d42daeba7b8000000054f",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2024-11-07T22:45:01.890Z",
+    "createdAt": "2024-11-07T22:45:01.891Z",
+    "updatedAt": "2024-11-07T22:45:01.891Z"
+  },
+  {
+    "id": 560,
+    "content": "Update github profile",
+    "category": "Now",
+    "projectId": "671d02e0eba7b8000000022f",
+    "todoId": "672d3db3eba7b8000000053d",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2024-11-07T22:23:01.624Z",
+    "createdAt": "2024-11-07T22:23:01.626Z",
+    "updatedAt": "2024-11-07T22:23:01.626Z"
+  },
+  {
     "id": 559,
     "content": "Add date range picker in todos",
     "category": "Now",
     "projectId": "671d02e0eba7b8000000022f",
     "todoId": "672c0332eba7b80000000415",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2024-11-07T20:47:21.384Z",
     "dueDate": "2024-11-07T00:01:34.940Z",
     "createdAt": "2024-11-07T00:01:34.942Z",
     "updatedAt": "2024-11-07T00:01:34.942Z"
@@ -137,8 +161,8 @@
     "category": "Now",
     "projectId": null,
     "todoId": null,
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2024-11-07T20:49:33.729Z",
     "dueDate": "2024-10-24T21:19:52.967Z",
     "createdAt": "2024-10-24T21:19:53.001Z",
     "updatedAt": "2024-10-24T21:19:53.001Z"
@@ -149,8 +173,8 @@
     "category": "Now",
     "projectId": null,
     "todoId": null,
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2024-11-07T18:15:50.823Z",
     "dueDate": "2024-10-20T15:53:17.984Z",
     "createdAt": "2024-10-20T15:53:17.985Z",
     "updatedAt": "2024-10-20T15:53:17.985Z"
