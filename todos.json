@@ -1,12 +1,36 @@
 [
   {
+    "id": 565,
+    "content": "Organize photos",
+    "category": "Now",
+    "projectId": "671d02e0eba7b8000000022f",
+    "todoId": "672f928deba7b80000000208",
+    "completed": false,
+    "completedDate": null,
+    "dueDate": "2024-11-09T16:49:52.410Z",
+    "createdAt": "2024-11-09T16:49:52.411Z",
+    "updatedAt": "2024-11-09T16:49:52.411Z"
+  },
+  {
+    "id": 564,
+    "content": "Change the style of Hero section in website",
+    "category": "Now",
+    "projectId": "671d02e0eba7b8000000022f",
+    "todoId": "672f7f3beba7b800000001d8",
+    "completed": true,
+    "completedDate": "2024-11-09T23:47:16.964Z",
+    "dueDate": "2024-11-09T15:27:51.376Z",
+    "createdAt": "2024-11-09T15:27:51.378Z",
+    "updatedAt": "2024-11-09T15:27:51.378Z"
+  },
+  {
     "id": 563,
     "content": "Create personal utils node library",
     "category": "Now",
     "projectId": "671d02e0eba7b8000000022f",
     "todoId": "672e97bb8f085525d6248c01",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2024-11-09T11:03:46.049Z",
     "dueDate": "2024-11-08T22:59:06.394Z",
     "createdAt": "2024-11-08T22:59:07.189Z",
     "updatedAt": "2024-11-08T22:59:07.189Z"
@@ -17,8 +41,8 @@
     "category": "Now",
     "projectId": "671d02e0eba7b8000000022f",
     "todoId": "672de4578f085525d603bdc3",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2024-11-09T23:47:18.606Z",
     "dueDate": "2024-11-08T10:13:42.455Z",
     "createdAt": "2024-11-08T10:13:43.244Z",
     "updatedAt": "2024-11-08T10:13:43.244Z"
@@ -41,8 +65,8 @@
     "category": "Now",
     "projectId": "671d02e0eba7b8000000022f",
     "todoId": "672d3db3eba7b8000000053d",
-    "completed": false,
-    "completedDate": null,
+    "completed": true,
+    "completedDate": "2024-11-09T16:29:52.952Z",
     "dueDate": "2024-11-07T22:23:01.624Z",
     "createdAt": "2024-11-07T22:23:01.626Z",
     "updatedAt": "2024-11-07T22:23:01.626Z"

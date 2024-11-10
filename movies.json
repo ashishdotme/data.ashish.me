@@ -1,5 +1,20 @@
 [
   {
+    "id": 160,
+    "title": "Bhool Bhulaiyaa 3",
+    "description": "Ruhaan, a fraudster posing as an exorcist, takes on a lucrative case at a haunted castle, unraveling a sinister plot involving mischievous priests, culminating in a hilarious yet thrilling ride filled with unexpected twists and scares.",
+    "review": null,
+    "language": "Hindi",
+    "year": 2024,
+    "genre": "Comedy, Horror",
+    "viewingDate": "2024-11-09T14:35:48.585Z",
+    "loved": true,
+    "imdbRating": "5.9",
+    "imdbId": "tt26932223",
+    "createdAt": "2024-11-09T22:35:36.938Z",
+    "updatedAt": "2024-11-09T22:35:36.938Z"
+  },
+  {
     "id": 151,
     "title": "The Gift",
     "description": "A married couple, Simon and Robyn, run into Gordo, an old classmate. Things take a turn when Gordo begins to drop in unannounced at their house and inundates them with mysterious gifts.",
