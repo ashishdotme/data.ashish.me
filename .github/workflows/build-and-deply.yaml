@@ -34,7 +34,7 @@ jobs:
         curl https://api.ashish.me/shows | jq . > shows.json
         curl https://api.ashish.me/books | jq . > books.json
         curl https://api.ashish.me/todos | jq . > todos.json
-        curl https://api.ashish.me/listens | jq . > todos.json
+        curl https://api.ashish.me/listens | jq . > listens.json
     - name: Commit and push if s changed
       run: |-
         git config user.name "Automated"
