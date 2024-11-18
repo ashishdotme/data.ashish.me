@@ -1,5 +1,20 @@
 [
   {
+    "id": 161,
+    "title": "The Ritual",
+    "description": "A group of old college friends reunite for a trip to a most dangerous country in Europe - Sweden, encountering a menacing presence there stalking them.",
+    "review": null,
+    "language": "English",
+    "year": 2018,
+    "genre": "Horror, Mystery, Thriller",
+    "viewingDate": "2024-11-16T18:11:57.665Z",
+    "loved": true,
+    "imdbRating": "6.3",
+    "imdbId": "tt5638642",
+    "createdAt": "2024-11-17T20:12:49.909Z",
+    "updatedAt": "2024-11-17T20:12:49.909Z"
+  },
+  {
     "id": 160,
     "title": "Bhool Bhulaiyaa 3",
     "description": "Ruhaan, a fraudster posing as an exorcist, takes on a lucrative case at a haunted castle, unraveling a sinister plot involving mischievous priests, culminating in a hilarious yet thrilling ride filled with unexpected twists and scares.",
