@@ -1,5 +1,35 @@
 [
   {
+    "id": 166,
+    "title": "The Exorcist",
+    "description": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+    "review": null,
+    "language": "English",
+    "year": 1973,
+    "genre": "Horror",
+    "viewingDate": "2024-12-02T04:53:18.239Z",
+    "loved": true,
+    "imdbRating": "8.1",
+    "imdbId": "tt0070047",
+    "createdAt": "2024-12-02T14:59:17.397Z",
+    "updatedAt": "2024-12-02T14:59:17.397Z"
+  },
+  {
+    "id": 167,
+    "title": "Let Me In",
+    "description": "A bullied young boy befriends a young female vampire who lives in secrecy with her guardian.",
+    "review": null,
+    "language": "English",
+    "year": 2010,
+    "genre": "Drama, Fantasy, Horror, Mystery, Thriller",
+    "viewingDate": "2024-12-01T05:36:19.791Z",
+    "loved": true,
+    "imdbRating": "7.1",
+    "imdbId": "tt1228987",
+    "createdAt": "2024-12-02T14:59:30.775Z",
+    "updatedAt": "2024-12-02T14:59:30.775Z"
+  },
+  {
     "id": 162,
     "title": "Samay: When Time Strikes",
     "description": "Assistant Commissioner of Police (ACP) Malvika Chauhan battles time to obtain & solve the clues to solve the various murders occurring in the city.",
