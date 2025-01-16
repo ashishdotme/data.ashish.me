@@ -1,5 +1,41 @@
 [
   {
+    "id": 1318,
+    "title": "Kehdoon Tumhen - From \"Deewaar\"",
+    "artist": "Kishore Kumar",
+    "album": "Old Bollywood Duets",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-01-15T05:50:39.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-01-15T05:50:39.969Z",
+    "updatedAt": "2025-01-15T05:50:39.969Z"
+  },
+  {
+    "id": 1317,
+    "title": "Patta Patta Buta Buta - From \"Ek Nazar\"",
+    "artist": "Mohammed Rafi",
+    "album": "Old Bollywood Duets",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-01-15T05:46:58.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-01-15T05:46:59.375Z",
+    "updatedAt": "2025-01-15T05:46:59.375Z"
+  },
+  {
+    "id": 1316,
+    "title": "Kya Yahi Pyar Hai - From \"Rocky\"",
+    "artist": "Lata Mangeshkar",
+    "album": "Old Bollywood Duets",
+    "releaseYear": null,
+    "genre": null,
+    "listenDate": "2025-01-15T05:41:14.000Z",
+    "trackNumber": null,
+    "createdAt": "2025-01-15T05:41:16.815Z",
+    "updatedAt": "2025-01-15T05:41:16.815Z"
+  },
+  {
     "id": 1315,
     "title": "Bin Tere",
     "artist": "Vishal-Shekhar",
